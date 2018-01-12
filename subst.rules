@@ -1,0 +1,12 @@
+Makeconfig:	Makeconfig.in subst.sed substscr
+	./substscr g h Makeconfig.in Makeconfig
+
+hide-game:	hide-game.in subst.sed substscr
+	./substscr g s hide-game.in hide-game
+
+install-man:	install-man.in subst.sed substscr
+	./substscr g s install-man.in install-man
+
+install-score:	install-score.in subst.sed substscr
+	./substscr g s install-score.in install-score
+
