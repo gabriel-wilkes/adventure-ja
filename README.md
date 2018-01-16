@@ -23,9 +23,11 @@ BSD Games lists the following as *prerequisites*, as long as you have basic buil
 
 * A POSIX shell, such as bash, in /bin/sh.
 
-# Compile and install
+# Compile, install and run
 ./configure
 
 make
 
 sudo make install
+
+adventure
