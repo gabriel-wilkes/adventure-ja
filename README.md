@@ -5,7 +5,7 @@ I didn't create the translation, it appears the translation was done in 2011. Th
 
 I tracked done the bsd games files and removed the other games and changed a few minor things to prevent build errors on Linux and OS X. Tested working fine on Ubuntu, Raspbian and OS X.
 
-BSD Games lists the following as prerequisites, as long as you have basic build tools installed the only thing extra you may need is the ncurses library:
+BSD Games lists the following as *prerequisites*, as long as you have basic build tools installed the only thing extra you may need is the ncurses library:
 
 * GCC (the C and C++ compilers only - other languages not needed; C++
   only needed for dab).
@@ -22,3 +22,8 @@ BSD Games lists the following as prerequisites, as long as you have basic build 
 * GNU make.
 
 * A POSIX shell, such as bash, in /bin/sh.
+
+# Compile and install
+./configure
+make
+sudo make install
