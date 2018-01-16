@@ -25,5 +25,7 @@ BSD Games lists the following as *prerequisites*, as long as you have basic buil
 
 # Compile and install
 ./configure
+
 make
+
 sudo make install
