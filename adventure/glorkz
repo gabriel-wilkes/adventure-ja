@@ -1,319 +1,685 @@
 1
+1	　　　　 ｺﾔ   ﾏｴ      ﾐﾁ  ｼｭｴﾃﾝ ﾀ           ﾏﾜ      ﾓﾘ        ｵｶﾞﾜ
 1	レンガの小屋の前にある道の終点に立っている。周りには森があり、小川が
-1	小屋から峡谷へと流れている。
-2	丘を登ったが、そこはまだ森である。道は丘の後ろのほうに傾いている。
-2	遠くに小屋が見える。
-3	大きな泉のある水を汲むための小屋にいる。
-4	森の中の谷にいる。小川が岩にそって流れている。
-5	森の開いた場所にいる。片側には深い谷がある。
-6	森の開いた場所にいる。近くに谷と道がある。
-7	足もとで、川の水が5センチの岩の隙間に全て流れこんでいる。下流の川底の
-7	岩がむき出しになっている。
-8	5メートルの深さのくぼ地にいる。地面はむき出しの土で、コンクリートには
-8	められた頑丈な鉄格子がある。水のない川が奥へと続いている。
-9	3x3の鉄格子の下にある小さな部屋にいる。西には石で覆われた這って進むこ
-9	とのできる狭い通路がある。
-10	石で覆われた狭い通路を這って進んでいる。東にかすかな光が見える。
-11	表面を浸食された岩が堆積した部屋にいる。石で覆われた天井が低く幅が広
-11	い通路は泥と岩で塞がれているが、大きな裂け目が西側の上の方にある。壁
-11	には『魔法の言葉 XYZZY』と書かれている。
-12	東西の歩きにくく傾いた谷間にいる。
-13	10メートルの高さの見事な眺めの部屋にいる。壁のオレンジ色の石は、まる
-13	で凍った川のようである。歩きにくい谷間と、整った通路が部屋の東と西に
+1	小屋【こや】から峡谷【きょうこく】へと流【なが】れている。
+1	You are standing at the end of a road before a small brick building.
+1	Around you is a forest.  A small stream flows out of the building and
+1	down a gully.
+2	丘【おか】を登【のぼ】ったが、そこはまだ森【もり】である。道【みち】は丘【おか】の後【うし】ろのほうに傾【かたむ】いている。
+2	遠【とお】くに小屋【こや】が見【み】える。
+2	You have walked up a hill, still in the forest.  The road slopes back
+2	down the other side of the hill.  There is a building in the distance.
+3	大【おお】きな泉【いずみ】のある水【みず】を汲【く】むための小屋【こや】にいる。
+3	You are inside a building, a well house for a large spring.
+4	森【もり】の中【なか】の谷【たに】にいる。小川【おがわ】が岩【いわ】にそって流【なが】れている。
+4	You are in a valley in the forest beside a stream tumbling along a
+4	rocky bed.
+5	森【もり】の開【ひら】いた場所【ばしょ】にいる。片側【かたがわ】には深【ふか】い谷【たに】がある。
+5	You are in open forest, with a deep valley to one side.
+6	森【もり】の開【ひら】いた場所【ばしょ】にいる。近【ちか】くに谷【たに】と道【みち】がある。
+6	You are in open forest near both a valley and a road.
+7	足【あし】もとで、川【かわ】の水【みず】が5センチの岩【いわ】の隙間【すきま】に全【すべ】て流【なが】れこんでいる。下流【かりゅう】の川底【かわぞこ】の
+7	岩【いわ】がむき出【だ】しになっている。
+7	At your feet all the water of the stream splashes into a 2-inch slit
+7	in the rock.  Downstream the streambed is bare rock.
+8	5メートルの深【ふか】さのくぼ地【ち】にいる。地面【じめん】はむき出【だ】しの土【ど】で、コンクリートには
+8	められた頑丈【がんじょう】な鉄格子【てつごうし】がある。水【みず】のない川【かわ】が奥【おく】へと続【つづ】いている。
+8	You are in a 20-foot depression floored with bare dirt.  Set into the
+8	dirt is a strong steel grate mounted in concrete.  A dry streambed
+8	leads into the depression.
+9	3x3の鉄格子【てつごうし】の下【した】にある小【ちい】さな部屋【へや】にいる。西【にし】には石【いし】で覆【おお】われた這【は】って進【すす】むこ
+9	とのできる狭【せま】い通路【つうろ】がある。
+9	You are in a small chamber beneath a 3x3 steel grate to the surface.
+9	A low crawl over cobbles leads inward to the west.
+10	石【せき】で覆【おお】われた狭【せま】い通路【つうろ】を這【は】って進【すす】んでいる。東【ひがし】にかすかな光【ひかり】が見【み】える。
+10	You are crawling over cobbles in a low passage.  There is a dim light
+10	at the east end of the passage.
+11	表面【ひょうめん】を浸食【しんしょく】された岩【いわ】が堆積【たいせき】した部屋【へや】にいる。石【いし】で覆【おお】われた天井【てんじょう】が低【ひく】く幅【はば】が広【ひろ】
+11	い通路【つうろ】は泥【どろ】と岩【いわ】で塞【ふさ】がれているが、大【おお】きな裂【さ】け目【め】が西側【にしがわ】の上【うえ】の方【ほう】にある。壁【かべ】
+11	には『魔法【まほう】の言葉【ことば】 XYZZY』と書【か】かれている。
+11	You are in a debris room filled with stuff washed in from the surface.
+11	A low wide passage with cobbles becomes plugged with mud and debris
+11	here, but an awkward canyon leads upward and west.  A note on the wall
+11	says "Magic word XYZZY".
+12	東西【とうざい】の歩【ある】きにくく傾【かたむ】いた谷間【たにま】にいる。
+12	You are in an awkward sloping east/west canyon.
+13	10メートルの高【たか】さの見事【みごと】な眺【なが】めの部屋【へや】にいる。壁【かべ】のオレンジ色【しょく】の石【いし】は、まる
+13	で凍【こお】った川【かわ】のようである。歩【ある】きにくい谷間【たにま】と、整【ととの】った通路【つうろ】が部屋【へや】の東【ひがし】と西【にし】に
 13	ある。
-14	足もとの小さな穴からわずかな白い霧が吹き出ている。西への通路は、
-14	狭いひびがあるがここで終わっている。
-15	西の端が見えないほどの大きな広間にいる。北と南の両側に穴がある。下へ
-15	行く岩の階段が近くにある。霧の塊が生きているかのようにあちらこちらに
-15	揺れている。冷たい風が上に向かって吹いている。後ろのドームの頂上に道
-15	が見える。
-16	ひびは狭すぎて通れなかった。
-17	広間を分断する地割れの東側にいる。霧はとても深い。地割れは広すぎて跳
-17	び越えられそうにない。
-18	壁になぐり書きのある、天井の低い部屋にいる。『金塊を持って登ることは
-18	できない。』と書かれている。
-19	「山の魔王の宮殿」にいる。全ての方向に部屋がある。
-20	穴の底にいる。あなたの足は折れている。
+13	You are in a splendid chamber thirty feet high.  The walls are frozen
+13	rivers of orange stone.  An awkward canyon and a good passage exit
+13	from east and west sides of the chamber.
+14	足【あし】もとの小【ちい】さな穴【あな】からわずかな白【しろ】い霧【きり】が吹【ふ】き出【で】ている。西【にし】への通路【つうろ】は、
+14	狭【せま】いひびがあるがここで終【お】わっている。
+14	At your feet is a small pit breathing traces of white mist.  An east
+14	passage ends here except for a small crack leading on.
+15	西【にし】の端【はじ】が見【み】えないほどの大【おお】きな広間【ひろま】にいる。北【きた】と南【みなみ】の両側【りょうがわ】に穴【あな】がある。下【した】へ
+15	行【い】く岩【いわ】の階段【かいだん】が近【ちか】くにある。霧【きり】の塊【かたまり】が生【い】きているかのようにあちらこちらに
+15	揺【ゆ】れている。冷【つめ】たい風【かぜ】が上【うえ】に向【む】かって吹【ふ】いている。後【うし】ろのドームの頂上【ちょうじょう】に道【みち】
+15	が見【み】える。
+15	You are at one end of a vast hall stretching forward out of sight to
+15	the west.  There are openings to either side.  Nearby, a wide stone
+15	staircase leads downward.  The hall is filled with wisps of white mist
+15	swaying to and fro almost as if alive.  A cold wind blows up the
+15	staircase.  There is a passage at the top of a dome behind you.
+16	ひびは狭【せま】すぎて通【とお】れなかった。
+16	The crack is far too small for you to follow.
+17	広間【ひろま】を分断【ぶんだん】する地割【じわ】れの東側【ひがしがわ】にいる。霧【きり】はとても深【ふか】い。地割【じわ】れは広【ひろ】すぎて跳
+17	び越【こ】えられそうにない。
+17	You are on the east bank of a fissure slicing clear across the hall.
+17	The mist is quite thick here, and the fissure is too wide to jump.
+18	壁【かべ】になぐり書【が】きのある、天井【てんじょう】の低【ひく】い部屋【へや】にいる。『金塊【きんかい】を持【も】って登【のぼ】ることは
+18	できない。』と書【か】かれている。
+18	This is a low room with a crude note on the wall.  The note says,
+18	You won't get it up the steps.
+19	「山【やま】の魔王【まおう】の宮殿【きゅうでん】」にいる。全【すべ】ての方向【ほうこう】に部屋【へや】がある。
+19	You are in the Hall of the Mountain King, with passages off in all
+19	directions.
+20	穴【あな】の底【そこ】にいる。あなたの足【あし】は折【お】れている。
+20	You are at the bottom of the pit with a broken neck.
 21	できなかった。
-22	ドームに登ることはできなかった。
-23	穴が2つある部屋の西端にいる。穴の上の壁には、大きな横穴がある。
-24	東側の穴の中にいる。隅に小さな油の池がある。
-25	西側の穴の中にいる。10メートル上の壁に大きな穴がある。
-26	植物をよじ登り、頂上ですばやく壁の穴を通った。
-27	霧の広間を分断する地割れの西側にいる。
-28	地面に掘られた南北の通路にいる。さらに下には東西の通路がある。
-29	南の部屋にいる。
-30	「山の魔王の宮殿」の西の部屋にいる。上りの通路が西に続いている。
+21	You didn't make it.
+22	ドームに登【のぼ】ることはできなかった。
+22	The dome is unclimbable.
+23	穴【あな】が2つある部屋【へや】の西端【せいたん】にいる。穴【あな】の上【うえ】の壁【かべ】には、大【おお】きな横穴【よこあな】がある。
+23	You are at the west end of the Twopit Room.  There is a large hole in
+23	the wall above the pit at this end of the room.
+24	東側【ひがしがわ】の穴【あな】の中【なか】にいる。隅【すみ】に小【ちい】さな油【あぶら】の池【いけ】がある。
+24	You are at the bottom of the eastern pit in the Twopit Room.  There is
+24	a small pool of oil in one corner of the pit.
+25	西側【にしがわ】の穴【あな】の中【なか】にいる。10メートル上【じょう】の壁【かべ】に大【おお】きな穴【あな】がある。
+25	You are at the bottom of the western pit in the Twopit Room.  There is
+25	a large hole in the wall about 25 feet above you.
+26	植物【しょくぶつ】をよじ登【のぼ】り、頂上【ちょうじょう】ですばやく壁【かべ】の穴【あな】を通【とお】った。
+26	You clamber up the plant and scurry through the hole at the top.
+27	霧【きり】の広間【ひろま】を分断【ぶんだん】する地割【じわ】れの西側【にしがわ】にいる。
+27	You are on the west side of the fissure in the Hall of Mists.
+28	地面【じめん】に掘【ほ】られた南北【なんぼく】の通路【つうろ】にいる。さらに下【した】には東西【とうざい】の通路【つうろ】がある。
+28	You are in a low N/S passage at a hole in the floor.  The hole goes
+28	down to an E/W passage.
+29	南【みなみ】の部屋【へや】にいる。
+29	You are in the south side chamber.
+30	「山【やま】の魔王【まおう】の宮殿【きゅうでん】」の西【にし】の部屋【へや】にいる。上【のぼ】りの通路【つうろ】が西【にし】に続【つづ】いている。
+30	You are in the west side chamber of the Hall of the Mountain King.
+30	A passage continues west and up here.
 31	>$<
-32	ヘビのせいで進めない。
-33	南と西に通路があり、東に割れた岩の壁がある広い部屋にいる。中央の岩に
-33	は大きく『 Y2 』と書かれている。
-34	まわりにたくさんのひびがはいった岩がある。
-35	巨大な穴を見渡せる小さな窓の前にいる。上はよく見えない。穴の底は15メ
-35	ートル下にぼんやりと見え、少しの白い霧が底をおおっている。霧は右の方
-35	ほど濃くなっている。窓の周りのほこりのあと見ると、ついさっきまでここ
-35	に人がいたようである。10メートルむこうには同じような窓の明るい部屋が
-35	あり、人影があなたをじっと見ている。
-36	泥だらけの崩れた通路にいる。東には這って進むことができる。西には広い
-36	通路がある。天井の穴は別の通路につながっている。
-37	汚れていない登り降りのできそうな小さな穴の淵にいる。西には這って進む
+31	>$<
+32	ヘビのせいで進【すす】めない。
+32	You can't get by the snake.
+33	南【みなみ】と西【にし】に通路【つうろ】があり、東【ひがし】に割【わ】れた岩【いわ】の壁【かべ】がある広【ひろ】い部屋【へや】にいる。中央【ちゅうおう】の岩【いわ】に
+33	は大【おお】きく『 Y2 』と書【か】かれている。
+33	You are in a large room, with a passage to the south, a passage to the
+33	west, and a wall of broken rock to the east.  There is a large "Y2" on
+33	a rock in the room's center.
+34	まわりにたくさんのひびがはいった岩【いわ】がある。
+34	You are in a jumble of rock, with cracks everywhere.
+35	巨大【きょだい】な穴【あな】を見渡【みわた】せる小【ちい】さな窓【まど】の前【まえ】にいる。上【うえ】はよく見【み】えない。穴【あな】の底【そこ】は15メ
+35	ートル下【か】にぼんやりと見【み】え、少【すこ】しの白【しろ】い霧【きり】が底【そこ】をおおっている。霧【きり】は右【みぎ】の方【ほう】
+35	ほど濃【こ】くなっている。窓【まど】の周【まわ】りのほこりのあと見【み】ると、ついさっきまでここ
+35	に人【ひと】がいたようである。10メートルむこうには同【おな】じような窓【まど】の明【あか】るい部屋【へや】が
+35	あり、人影【ひとかげ】があなたをじっと見【み】ている。
+35	You're at a low window overlooking a huge pit, which extends up out of
+35	sight.  A floor is indistinctly visible over 50 feet below.  Traces of
+35	white mist cover the floor of the pit, becoming thicker to the right.
+35	Marks in the dust around the window would seem to indicate that
+35	someone has been here recently.  Directly across the pit from you and
+35	25 feet away there is a similar window looking into a lighted room.  A
+35	shadowy figure can be seen there peering back at you.
+36	泥【どろ】だらけの崩【くず】れた通路【つうろ】にいる。東【ひがし】には這【は】って進【すす】むことができる。西【にし】には広【ひろ】い
+36	通路【つうろ】がある。天井【てんじょう】の穴【あな】は別【べつ】の通路【つうろ】につながっている。
+36	You are in a dirty broken passage.  To the east is a crawl.  To the
+36	west is a large passage.  Above you is a hole to another passage.
+37	汚【よご】れていない登【のぼ】り降【ふ】りのできそうな小【ちい】さな穴【あな】の淵【ふち】にいる。西【にし】には這【は】って進【すす】む
 37	ことができる。
-38	小さな穴の底にいる。小川が小さな隙間に流れこんでいる。
-39	ほこりっぽい岩がたくさんある広い部屋にいる。地面に大きな穴があり、い
-39	たるところにひびがある。東には通路がある。
-40	とても天井が低く幅が広い、霧の広間の北側と平行した通路を這って進んで
+37	You are on the brink of a small clean climbable pit.  A crawl leads
+37	west.
+38	小【ちい】さな穴【あな】の底【そこ】にいる。小川【おがわ】が小【ちい】さな隙間【すきま】に流【なが】れこんでいる。
+38	You are in the bottom of a small pit with a little stream, which
+38	enters and exits through tiny slits.
+39	ほこりっぽい岩【いわ】がたくさんある広【ひろ】い部屋【へや】にいる。地面【じめん】に大【おお】きな穴【あな】があり、い
+39	たるところにひびがある。東【ひがし】には通路【つうろ】がある。
+39	You are in a large room full of dusty rocks.  There is a big hole in
+39	the floor.  There are cracks everywhere, and a passage leading east.
+40	とても天井【てんじょう】が低【ひく】く幅【はば】が広【ひろ】い、霧【きり】の広間【ひろま】の北側【きたがわ】と平行【へいこう】した通路【つうろ】を這【は】って進【すす】んで
 40	いる。
-41	霧の広間の西の端にいる。西には這って進むことができる天井が低く幅が広
-41	い通路があり、北には別の通路がある。南には2メートルの深さの狭い通路が
+40	You have crawled through a very low wide passage parallel to and north
+40	of the Hall of Mists.
+41	霧【きり】の広間【ひろま】の西【にし】の端【はじ】にいる。西【にし】には這【は】って進【すす】むことができる天井【てんじょう】が低【ひく】く幅【はば】が広【ひろ】
+41	い通路【つうろ】があり、北【きた】には別【べつ】の通路【つうろ】がある。南【みなみ】には2メートルの深【ふか】さの狭【せま】い通路【つうろ】が
 41	ある。
-42	曲がりくねった狭い迷路にいる。どこも同じに見える。
-43	曲がりくねった狭い迷路にいる。どこも同じに見える。
-44	曲がりくねった狭い迷路にいる。どこも同じに見える。
-45	曲がりくねった狭い迷路にいる。どこも同じに見える。
-46	行き止まりだ。
-47	行き止まりだ。
-48	行き止まりだ。
-49	曲がりくねった狭い迷路にいる。どこも同じに見える。
-50	曲がりくねった狭い迷路にいる。どこも同じに見える。
-51	曲がりくねった狭い迷路にいる。どこも同じに見える。
-52	曲がりくねった狭い迷路にいる。どこも同じに見える。
-53	曲がりくねった狭い迷路にいる。どこも同じに見える。
-54	行き止まりだ。
-55	曲がりくねった狭い迷路にいる。どこも同じに見える。
-56	行き止まりだ。
-57	10メートルの深さの穴の淵にいる。巨大なオレンジ色の柱が壁を倒している。
-57	ここから下に降りることはできるが、登って戻ることはできそうにない。迷
-57	路は続いている。
-58	行き止まりだ。
-59	とても天井が低く幅が広い、霧の広間の北側と平行した通路を這って進んで
+41	You are at the west end of Hall of Mists.  A low wide crawl continues
+41	west and another goes north.  To the south is a little passage 6 feet
+41	off the floor.
+42	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+42	You are in a maze of twisty little passages, all alike.
+43	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+43	You are in a maze of twisty little passages, all alike.
+44	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+44	You are in a maze of twisty little passages, all alike.
+45	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+45	You are in a maze of twisty little passages, all alike.
+46	行【ゆ】き止【ど】まりだ。
+46	Dead end
+47	行【ゆ】き止【ど】まりだ。
+47	Dead end
+48	行【ゆ】き止【ど】まりだ。
+48	Dead end
+49	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+49	You are in a maze of twisty little passages, all alike.
+50	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+50	You are in a maze of twisty little passages, all alike.
+51	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+51	You are in a maze of twisty little passages, all alike.
+52	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+52	You are in a maze of twisty little passages, all alike.
+53	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+53	You are in a maze of twisty little passages, all alike.
+54	行【ゆ】き止【ど】まりだ。
+54	Dead end
+55	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+55	You are in a maze of twisty little passages, all alike.
+56	行【ゆ】き止【ど】まりだ。
+56	Dead end
+57	10メートルの深【ふか】さの穴【あな】の淵【ふち】にいる。巨大【きょだい】なオレンジ色【しょく】の柱【はしら】が壁【かべ】を倒【たお】している。
+57	ここから下【した】に降【お】りることはできるが、登【のぼ】って戻【もど】ることはできそうにない。迷
+57	路【ろ】は続【つづ】いている。
+57	You are on the brink of a thirty foot pit with a massive orange column
+57	down one wall.  You could climb down here but you could not get back
+57	up.  The maze continues at this level.
+58	行【ゆ】き止【ど】まりだ。
+58	Dead end
+59	とても天井【てんじょう】が低【ひく】く幅【はば】が広【ひろ】い、霧【きり】の広間【ひろま】の北側【きたがわ】と平行【へいこう】した通路【つうろ】を這【は】って進【すす】んで
 59	いる。
-60	とても長い広間の東の端にいる。隣に部屋はなさそうだ。東に這って進むこ
-60	とができる、天井が低く幅が広い上りの通路がある。北には地面に直径50セ
-60	ンチ程の穴がある。
-61	とても長い特徴のない広間の西端にいる。広間は狭い南北の通路とつながっ
+59	You have crawled through a very low wide passage parallel to and north
+59	of the Hall of Mists.
+60	とても長【なが】い広間【ひろま】の東【ひがし】の端【はじ】にいる。隣【となり】に部屋【へや】はなさそうだ。東【ひがし】に這【は】って進【すす】むこ
+60	とができる、天井【てんじょう】が低【ひく】く幅【はば】が広【ひろ】い上【のぼ】りの通路【つうろ】がある。北【きた】には地面【じめん】に直径【ちょっけい】50セ
+60	ンチ程【ほど】の穴【あな】がある。
+60	You are at the east end of a very long hall apparently without side
+60	chambers.  To the east a low wide crawl slants up.  To the north a
+60	round two foot hole slants down.
+61	とても長【なが】い特徴【とくちょう】のない広間【ひろま】の西端【せいたん】にいる。広間【ひろま】は狭【せま】い南北【なんぼく】の通路【つうろ】とつながっ
 61	ている。
-62	天井の高い南北の通路と、天井の低い東西の通路の十字路にいる。
-63	行き止まりだ。
-64	複雑な交差点にいる。北の這って進む通路は、東のやや天井が高い這って進
-64	む通路と交わり、西の歩ける通路となっている。上には広い部屋がある。こ
-64	この空気はじめじめしている。
-65	キルティングしたベッドカバーのような、長い東西の穴だらけの通路にいる。
-65	北、南、上、下に進むことができる。
-66	壁がスイスチーズのようになった部屋にいる。西、東、北東、北西に明らか
-66	に通れそうな穴がある。大きな岩が部屋の一部を占領している。
-67	地面に穴が2つある部屋の東側にいる。地面は薄い岩盤で覆われており、容易
-67	に穴に降りることができる。道は穴を避けて東から西に続いている。壁には
-67	穴がたくさんあるが、西の穴の上にある最も大きな横穴にはとどかない。
-68	広く天井の低い円形の部屋にいる。床には天井から落ちた大きな岩盤がある
-68	(岩盤の部屋)。東と西にはかつて広い通路があったが、今は岩で塞がれてい
-68	る。北と南には狭い通路があり、南の通路は岩の周りで西に急に曲がってい
+61	You are at the west end of a very long featureless hall.  The hall
+61	joins up with a narrow north/south passage.
+62	天井【てんじょう】の高【たか】い南北【なんぼく】の通路【つうろ】と、天井【てんじょう】の低【ひく】い東西【とうざい】の通路【つうろ】の十字路【じゅうじろ】にいる。
+62	You are at a crossover of a high N/S passage and a low E/W one.
+63	行【ゆ】き止【ど】まりだ。
+63	Dead end
+64	複雑【ふくざつ】な交差点【こうさてん】にいる。北【きた】の這【は】って進【すす】む通路【つうろ】は、東【ひがし】のやや天井【てんじょう】が高【たか】い這【は】って進【すすむ】
+64	む通路【つうろ】と交【まじ】わり、西【にし】の歩【ある】ける通路【つうろ】となっている。上【うえ】には広【ひろ】い部屋【へや】がある。こ
+64	この空気【くうき】はじめじめしている。
+64	You are at a complex junction.  A low hands and knees passage from the
+64	north joins a higher crawl from the east to make a walking passage
+64	going west.  There is also a large room above.  The air is damp here.
+65	キルティングしたベッドカバーのような、長【なが】い東西【とうざい】の穴【あな】だらけの通路【つうろ】にいる。
+65	北【きた】、南【みなみ】、上【うえ】、下【した】に進【すす】むことができる。
+65	You are in Bedquilt, a long east/west passage with holes everywhere.
+65	To explore at random select north, south, up, or down.
+66	壁【かべ】がスイスチーズのようになった部屋【へや】にいる。西【にし】、東【ひがし】、北東【ほくとう】、北西【ほくせい】に明【あき】らか
+66	に通【とお】れそうな穴【あな】がある。大【おお】きな岩【いわ】が部屋【へや】の一部【いちぶ】を占領【せんりょう】している。
+66	You are in a room whose walls resemble Swiss cheese.  Obvious passages
+66	go west, east, NE, and NW.  Part of the room is occupied by a large
+66	bedrock block.
+67	地面【じめん】に穴【あな】が2つある部屋【へや】の東側【ひがしがわ】にいる。地面【じめん】は薄【うす】い岩盤【がんばん】で覆【おお】われており、容易【ようい】
+67	に穴【あな】に降【お】りることができる。道【みち】は穴【あな】を避【さ】けて東【ひがし】から西【にし】に続【つづ】いている。壁【かべ】には
+67	穴【あな】がたくさんあるが、西【にし】の穴【あな】の上【うえ】にある最【もっと】も大【おお】きな横穴【よこあな】にはとどかない。
+67	You are at the east end of the Twopit Room.  The floor here is
+67	littered with thin rock slabs, which make it easy to descend the pits.
+67	There is a path here bypassing the pits to connect passages from east
+67	and west.  There are holes all over, but the only big one is on the
+67	wall directly over the west pit where you can't get to it.
+68	広【ひろ】く天井【てんじょう】の低【ひく】い円形【えんけい】の部屋【へや】にいる。床【ゆか】には天井【てんじょう】から落【お】ちた大【おお】きな岩盤【がんばん】がある
+68	(岩盤【がんばん】の部屋【へや】)。東【ひがし】と西【にし】にはかつて広【ひろ】い通路【つうろ】があったが、今【いま】は岩【いわ】で塞【ふさ】がれてい
+68	る。北【きた】と南【みなみ】には狭【せま】い通路【つうろ】があり、南【みなみ】の通路【つうろ】は岩【いわ】の周【まわ】りで西【にし】に急【きゅう】に曲【ま】がってい
 68	る。
-69	広い部屋の上の隠された南北の谷間にいる。
-70	広い通路の上の隠された南北の谷間にいる。
-71	3つの隠された谷間の交差点にいる。北、南、南東に進むことができる。北の
-71	通路は他の2つの通路を合わせたほどの高さがある。
-72	天井が低い広い部屋にいる。北、南東、南西に這って進むことができる。
-73	這って進んだが、行き止まりだった。
-74	東西の隠された谷間にいる。5メートル下にとても狭い通路がある。下に降り
-74	ると、登って戻ることはできそうにない。
-75	急な谷間にある南北の広い場所にいる。
-76	南の谷間は狭すぎて進むことができない。
-77	天井の高い東西の谷間にいる。北の狭い這って進むことのできる通路は1メー
-77	トルの長さがあり、その向こうで広くなっているようだ。
-78	たくさんの岩が道を塞いでいる。行き止まりだ。
-79	直径30センチの一対の下水の管から水が流れ出ている。これを使って出たほ
+68	You are in a large low circular chamber whose floor is an immense slab
+68	fallen from the ceiling (Slab Room).  East and west there once were
+68	large passages, but they are now filled with boulders.  Low small
+68	passages go north and south, and the south one quickly bends west
+68	around the boulders.
+69	広【ひろ】い部屋【へや】の上【うえ】の隠【かく】された南北【なんぼく】の谷間【たにま】にいる。
+69	You are in a secret N/S canyon above a large room.
+70	広【ひろ】い通路【つうろ】の上【うえ】の隠【かく】された南北【なんぼく】の谷間【たにま】にいる。
+70	You are in a secret N/S canyon above a sizable passage.
+71	3つの隠【かく】された谷間【たにま】の交差点【こうさてん】にいる。北【きた】、南【みなみ】、南東【なんとう】に進【すす】むことができる。北の
+71	通路【つうろ】は他【た】の2つの通路【つうろ】を合【あ】わせたほどの高【たか】さがある。
+71	You are in a secret canyon at a junction of three canyons, bearing
+71	north, south, and SE.  The north one is as tall as the other two
+71	combined.
+72	天井【てんじょう】が低【ひく】い広【ひろ】い部屋【へや】にいる。北【きた】、南東【なんとう】、南西【なんせい】に這【は】って進【すす】むことができる。
+72	You are in a large low room.  Crawls lead north, SE, and SW.
+73	這【は】って進【すす】んだが、行【ゆ】き止【ど】まりだった。
+73	Dead end crawl.
+74	東西【とうざい】の隠【かく】された谷間【たにま】にいる。5メートル下【か】にとても狭【せま】い通路【つうろ】がある。下【した】に降【お】り
+74	ると、登【のぼ】って戻【もど】ることはできそうにない。
+74	You are in a secret canyon which here runs E/W.  It crosses over a
+74	very tight canyon 15 feet below.  If you go down you may not be able
+74	to get back up.
+75	急【きゅう】な谷間【たにま】にある南北【なんぼく】の広【ひろ】い場所【ばしょ】にいる。
+75	You are at a wide place in a very tight N/S canyon.
+76	南【みなみ】の谷間【たにま】は狭【せま】すぎて進【すす】むことができない。
+76	The canyon here becomes too tight to go further south.
+77	天井【てんじょう】の高【たか】い東西【とうざい】の谷間【たにま】にいる。北【きた】の狭【せま】い這【は】って進【すす】むことのできる通路【つうろ】は1メー
+77	トルの長【なが】さがあり、その向【む】こうで広【ひろ】くなっているようだ。
+77	You are in a tall E/W canyon.  A low tight crawl goes 3 feet north and
+77	seems to open up.
+78	たくさんの岩【いわ】が道【みち】を塞【ふさ】いでいる。行【ゆ】き止【ど】まりだ。
+78	The canyon runs into a mass of boulders -- dead end.
+79	直径【ちょっけい】30センチの一対【いっつい】の下水【げすい】の管【かん】から水【みず】が流【なが】れ出【で】ている。これを使【つか】って出【で】たほ
 79	うがよさそうだ。
-80	曲がりくねった狭い迷路にいる。どこも同じに見える。
-81	行き止まりだ。
-82	行き止まりだ。
-83	曲がりくねった狭い迷路にいる。どこも同じに見える。
-84	曲がりくねった狭い迷路にいる。どこも同じに見える。
-85	行き止まりだ。
-86	行き止まりだ。
-87	曲がりくねった狭い迷路にいる。どこも同じに見える。
-88	長く狭い廊下にいる。西の端は見えない。東にはたくさん葉の見える横穴が
+79	The stream flows out through a pair of 1 foot diameter sewer pipes.
+79	It would be advisable to use the exit.
+80	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+80	You are in a maze of twisty little passages, all alike.
+81	行【ゆ】き止【ど】まりだ。
+81	Dead end
+82	行【ゆ】き止【ど】まりだ。
+82	Dead end
+83	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+83	You are in a maze of twisty little passages, all alike.
+84	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+84	You are in a maze of twisty little passages, all alike.
+85	行【ゆ】き止【ど】まりだ。
+85	Dead end
+86	行【ゆ】き止【ど】まりだ。
+86	Dead end
+87	曲【ま】がりくねった狭【せま】い迷路【めいろ】にいる。どこも同【おな】じに見【み】える。
+87	You are in a maze of twisty little passages, all alike.
+88	長【なが】く狭【せま】い廊下【ろうか】にいる。西【にし】の端【はじ】は見【み】えない。東【ひがし】にはたくさん葉【は】の見【み】える横穴【よこあな】が
 88	ある。
-89	ここには登ることのできるものはない。穴から出るには「上」や「出る」を
-89	使うこと。
-90	植物を登って穴から出た。
-91	広い部屋の上の険しい坂道にいる。降りることはできるが、登って戻ること
-91	はできそうにない。北には戻る通路がある。
-92	巨大な部屋にいる。天井はとても高くランタンの光がとどかない。東、北、
-92	南に洞窟のような通路がある。西の壁には 『 fee fie foe foo 』と刻まれ
+88	You are in a long, narrow corridor stretching out of sight to the
+88	west.  At the eastern end is a hole through which you can see a
+88	profusion of leaves.
+89	ここには登【のぼ】ることのできるものはない。穴【あな】から出【で】るには「上【うえ】」や「出【で】る」を
+89	使【つか】うこと。
+89	There is nothing here to climb.  Use "up" or "out" to leave the pit.
+90	植物【しょくぶつ】を登【のぼ】って穴【あな】から出【で】た。
+90	You have climbed up the plant and out of the pit.
+91	広【ひろ】い部屋【へや】の上【うえ】の険【けわ】しい坂道【さかみち】にいる。降【お】りることはできるが、登【のぼ】って戻【もど】ること
+91	はできそうにない。北【きた】には戻【もど】る通路【つうろ】がある。
+91	You are at the top of a steep incline above a large room.  You could
+91	climb down here, but you would not be able to climb up.  There is a
+91	passage leading back to the north.
+92	巨大【きょだい】な部屋【へや】にいる。天井【てんじょう】はとても高【たか】くランタンの光【ひかり】がとどかない。東【ひがし】、北【きた】、
+92	南【みなみ】に洞窟【どうくつ】のような通路【つうろ】がある。西【にし】の壁【かべ】には 『 fee fie foe foo 』と刻【きざ】まれ
 92	ている。
-93	通路は最近の落盤で塞がれている。
-94	巨大な南北の通路の端にいる。
-95	勢いよく川が流れる広大な洞窟にいる。川は水しぶきを立てる滝から、大き
-95	な音を立てる渦に向かって流れ、川底の穴を通って見えなくなっている。南
-95	と西に出口の通路がある。
-96	やわらかい部屋にいる。壁は重いカーテンで覆われ、床には羽毛のカーペッ
-96	トがしかれている。天井はコケに覆われている。
-97	ここは東洋的な部屋だ。古代の東洋の壁画が壁を覆っている。北には上りの
-97	ゆるやかな坂道があり、南東には別の道がある。西には這って進むことがで
-97	きる通路がある。
-98	両側が崖になっている広い道を歩いている。はるか下、白く深い霧のむこう
-98	から、奇妙な水しぶきの音が聞える。霧は天井の大きな亀裂を通って上へあ
-98	がっている。南と西に出口がある。
-99	くぼみにいる。北西の狭い通路は少し向こうで広くなっているようだ。東に
-99	はとても狭いトンネルがある。その向こうには不気味な光が見える。
-100	不気味な緑色の光に照らされた小さな部屋にいる。西にはとても狭いトンネ
-100	ルの出口があり、北東には暗い廊下がある。
-101	暗い部屋にいる。南の廊下が唯一の出口である。
-102	アーチ天井の広間にいる。上と東には、かつてここから珊瑚の通路が続いて
-102	いたようだが、今は岩と泥でふさがれている。空気は海水のにおいがする。
-103	堆積岩を切り開いた広い部屋にいる。地面と壁には貝の破片の混じった岩が
-103	散らばっている。緩やかな下りの通路と、やや険しい上りの通路がある。南
-103	には這って進むことができる通路がある。
-104	壁が鋭い岩の傾いた長い廊下にいる。
-105	3メートル先が行き止まりの場所にいる。
-106	控え室にいる。東に広い通路があり、西と上に狭い通路がある。明らかに最
-106	近掘ったあとがある。空中には看板がある。『ここから先は工事中です。自
-106	分の責任で進んでください。 [ウイット建設会社] 』
-107	曲がりくねった狭い通路の迷路にいる。全て違って見える。
-108	工事中の行き止まりにいる。「全ての」方向に通路がある。
-109	南北10メートルの谷間にいる。床は北の方からしみ出た白い霧で覆われてい
-109	る。壁の高さは30メートル以上ある。頭上の遥か上の見えない場所から、巨
-109	大な両面の鏡が壁の中央に平行につるされている。 (鏡は明らかにドワーフ
-109	が使うために用意したものだが、あなたも知ってのとおり、それは全く無駄
-109	である。) 小さな窓が両側の壁の5メートル上に見える。
-110	巨大な穴を見渡せる小さな窓の前にいる。上はよく見えない。穴の底の15メ
-110	ートル下にぼんやりと見え、少しの白い霧が底をおおっている。霧は左の方
-110	ほど濃くなっている。窓の周りのほこりのあと見ると、ついさっきまでここ
-110	に人がいたようである。10メートルむこうには同じような窓の明るい部屋が
-110	あり、人影があなたをじっと見ている。
-111	大きな鍾乳石が天井から地面近くまで垂れ下がっている。それをつたって降
-111	り、床に飛び降りることができるが、登って戻ることはできないだろう。
-112	入り組んだ通路の狭い迷路にいる。全て違って見える。
-113	広い地下湖の淵にいる。あたりを満たす不透明な白い霧がすばやく上昇して
-113	いる。地下湖には3メートル上の壁の穴から水が流れこみ、霧の中で水音をた
-113	てている。ここから出るには南の通路を戻るしかない。
-114	行き止まりだ。
-115	「巨大な部屋」よりも、さらに大きな部屋の北東の端にいる。ここは「アド
-115	ベンチャー」プログラムの倉庫のようだ。頭上の巨大な松明の煙と黄色い光
-115	で部屋は満たされいる。山のようなビン(全て空だ)、つぶやく豆の苗床、養
-115	殖中のカキ、束になった錆びた星のついた黒い杖、そしてたくさんの真鍮の
-115	ランタンが散らばっているのが見える。別の側では大勢のドワーフが床の上
-115	で大きないびきをかいて眠っていて、その近くには『ドワーフをおこすな』
-115	と書かれている。巨大な鏡が壁を後ろにしてつり下げられており、部屋の別
-115	の側までのびている。そこには別の色々なものがかすかに見える。
-116	倉庫の南西の端にいる。ある方向には獰猛な緑色のヘビでいっぱいの穴があ
-116	る。別の方向には小枝のかごが並んでいて、その中には不機嫌そうな小鳥が
-116	いる。隅には束になった錆びた印のついた杖が置いてある。床にはたくさん
-116	のベルベットのまくらが散らばっている。巨大な鏡が北東にのびている。足
-116	元には大きな鉄格子があり、その向こうに『宝物庫。鍵はメインオフィス』
-116	と書かれている。
-117	広く深い穴の淵にいる。下から登ってくる白く濃い霧のため遠くが見えない。
-117	南西の道は、穴から離れた風の吹く廊下に続いている。
-118	風の吹く傾いた長い廊下にいる。どちらの側の端も見えない。
-119	隠された谷間にいる。北と東に出口がある。
-120	隠された谷間にいる。北と東に出口がある。
-121	隠された谷間にいる。北と東に出口がある。
-122	深い穴から離れた場所にいる。北東にここから離れる道がある。
-123	東西の長い廊下にいる。かすかなゴロゴロという音が遠くから聞える。
-124	道が二手に分かれている。左の道は北東にあり、鈍いゴロゴロという音はこ
-124	ちらのほうで大きくなっているようだ。右の道は南東にあり、ゆるやかな下
-124	りになっている。西に分かれる前の廊下がある。
-125	ここの壁はとても暖かい。北からは変わらずに大きな音が聞え、洞窟全体が
-125	揺れているようだ。南には別の道があり、東には低く這って進むことができ
-125	る通路がある。
-126	息をのむような眺めの場所の端にいる。遥か下には活動中の火山がから大量
-126	の溶岩が吹きだし、深いところに流れている。遠くにある洞窟の壁の焼けた
-126	岩は血のような赤色に輝いていて、全てが恐ろしく不気味に見える。あたり
-126	は火の粉が舞い、硫黄のにおいで満ちている。壁は触れないほど熱く、火山
-126	は他の音が聞こえないほど大きな音をたてている。頭上には無数の雪形石膏
-126	のつららがあり、それらは陰気な光を放ち壁を邪悪な雰囲気で照らしている。
-126	別の方向には深い谷があり、そこには悪魔によって作られたかのような奇妙
-126	にねじれた岩が無数にある。巨大な溶岩の川が火山の奥底から峡谷を通り、
-126	あなたの左側にある底なしの穴に流れている。右には熱湯の間欠泉があり、
-126	それは無気味に泡立つ硫黄の池の中央にある島から噴き出ている。右遠方の
-126	壁は熱で輝いており、地獄のような風景の中で恐ろしげな光を放っている。
-126	南に暗く、嫌な予感のする出口の通路がある。
-127	大きな石で満たされた狭い部屋にいる。壁はとても暖かく、それにより空気
-127	が暖められ息が詰まるようだ。出口は西の低いゴロゴロと音を立てる這って
-127	進む通路しかない。
-128	奇妙な石灰岩の並ぶ、緩やかな南北の坂道を歩いている。
-129	広く殺風景な部屋の前に立っている。入り口には『熊に注意! 』と書かれて
+92	You are in the Giant Room.  The ceiling here is too high up for your
+92	lamp to show it.  Cavernous passages lead east, north, and south.  On
+92	the west wall is scrawled the inscription, "Fee fie foe foo" [sic].
+93	通路【つうろ】は最近【さいきん】の落盤【らくばん】で塞【ふさ】がれている。
+93	The passage here is blocked by a recent cave-in.
+94	巨大【きょだい】な南北【なんぼく】の通路【つうろ】の端【はじ】にいる。
+94	You are at one end of an immense north/south passage.
+95	勢【いきお】いよく川【かわ】が流【なが】れる広大【こうだい】な洞窟【どうくつ】にいる。川【かわ】は水【みず】しぶきを立【た】てる滝【たき】から、大【おお】き
+95	な音【おと】を立【た】てる渦【うず】に向【む】かって流【なが】れ、川底【かわぞこ】の穴【あな】を通【とお】って見【み】えなくなっている。南【みなみ】
+95	と西【にし】に出口【でぐち】の通路【つうろ】がある。
+95	You are in a magnificent cavern with a rushing stream, which cascades
+95	over a sparkling waterfall into a roaring whirlpool which disappears
+95	through a hole in the floor.  Passages exit to the south and west.
+96	やわらかい部屋【へや】にいる。壁【かべ】は重【おも】いカーテンで覆【おお】われ、床【ゆか】には羽毛【うもう】のカーペッ
+96	トがしかれている。天井【てんじょう】はコケに覆【おお】われている。
+96	You are in the Soft Room.  The walls are covered with heavy curtains,
+96	the floor with a thick pile carpet.  Moss covers the ceiling.
+97	ここは東洋【とうよう】的【てき】な部屋【へや】だ。古代【こだい】の東洋【とうよう】の壁画【へきが】が壁【かべ】を覆【おお】っている。北【きた】には上【のぼ】りの
+97	ゆるやかな坂道【さかみち】があり、南東【なんとう】には別【べつ】の道【みち】がある。西【にし】には這【は】って進【すす】むことがで
+97	きる通路【つうろ】がある。
+97	This is the Oriental Room.  Ancient oriental cave drawings cover the
+97	walls.  A gently sloping passage leads upward to the north, another
+97	passage leads SE, and a hands and knees crawl leads west.
+98	両【りょう】側【がわ】が崖【がけ】になっている広【ひろ】い道【みち】を歩【ある】いている。はるか下【か】、白【しろ】く深【ふか】い霧【きり】のむこう
+98	から、奇妙【きみょう】な水【みず】しぶきの音【おと】が聞【きこ】える。霧【きり】は天井【てんじょう】の大【おお】きな亀裂【きれつ】を通【とお】って上【うえ】へあ
+98	がっている。南【みなみ】と西【にし】に出口【でぐち】がある。
+98	You are following a wide path around the outer edge of a large cavern.
+98	Far below, through a heavy white mist, strange splashing noises can be
+98	heard.  The mist rises up through a fissure in the ceiling.  The path
+98	exits to the south and west.
+99	くぼみにいる。北西【ほくせい】の狭【せま】い通路【つうろ】は少【すこ】し向【む】こうで広【ひろ】くなっているようだ。東【ひがし】に
+99	はとても狭【せま】いトンネルがある。その向【む】こうには不気味【ぶきみ】な光【ひかり】が見【み】える。
+99	You are in an alcove.  A small NW path seems to widen after a short
+99	distance.  An extremely tight tunnel leads east.  It looks like a very
+99	tight squeeze.  An eerie light can be seen at the other end.
+100	不気味【ぶきみ】な緑色【りょくしょく】の光【ひかり】に照【て】らされた小【ちい】さな部屋【へや】にいる。西【にし】にはとても狭【せま】いトンネ
+100	ルの出口【でぐち】があり、北東【ほくとう】には暗【くら】い廊下【ろうか】がある。
+100	You're in a small chamber lit by an eerie green light.  An extremely
+100	narrow tunnel exits to the west.  A dark corridor leads NE.
+101	暗【くら】い部屋【へや】にいる。南【みなみ】の廊下【ろうか】が唯一【ゆいいつ】の出口【でぐち】である。
+101	You're in the Dark-Room.  A corridor leading south is the only exit.
+102	アーチ天井【てんじょう】の広間【ひろま】にいる。上【うえ】と東【ひがし】には、かつてここから珊瑚【さんご】の通路【つうろ】が続【つづ】いて
+102	いたようだが、今【いま】は岩【いわ】と泥【どろ】でふさがれている。空気【くうき】は海水【かいすい】のにおいがする。
+102	You are in an arched hall.  A coral passage once continued up and east
+102	from here, but is now blocked by debris.  The air smells of sea water.
+103	堆積岩【たいせきがん】を切【き】り開【ひら】いた広【ひろ】い部屋【へや】にいる。地面【じめん】と壁【かべ】には貝【かい】の破片【はへん】の混【ま】じった岩【いわ】が
+103	散【ち】らばっている。緩【ゆる】やかな下【くだ】りの通路【つうろ】と、やや険【けわ】しい上【のぼ】りの通路【つうろ】がある。南【みなみ】
+103	には這【は】って進【すす】むことができる通路【つうろ】がある。
+103	You're in a large room carved out of sedimentary rock.  The floor and
+103	walls are littered with bits of shells embedded in the stone.  A
+103	shallow passage proceeds downward, and a somewhat steeper one leads
+103	up.  A low hands and knees passage enters from the south.
+104	壁【かべ】が鋭【するど】い岩【いわ】の傾【かたむ】いた長【なが】い廊下【ろうか】にいる。
+104	You are in a long sloping corridor with ragged sharp walls.
+105	3メートル先【さき】が行【ゆ】き止【ど】まりの場所【ばしょ】にいる。
+105	You are in a cul-de-sac about eight feet across.
+106	控【ひか】え室【しつ】にいる。東【ひがし】に広【ひろ】い通路【つうろ】があり、西【にし】と上【うえ】に狭【せま】い通路【つうろ】がある。明【あき】らかに最【さい】
+106	近【きん】掘【ほ】ったあとがある。空中【くうちゅう】には看板【かんばん】がある。『ここから先【さき】は工事【こうじ】中【ちゅう】です。自【じ】
+106	分【ぶん】の責任【せきにん】で進【すす】んでください。 [ウイット建設【けんせつ】会社【かいしゃ】] 』
+106	You are in an anteroom leading to a large passage to the east.  Small
+106	passages go west and up.  The remnants of recent digging are evident.
+106	A sign in midair here says "Cave under construction beyond this point.
+106	Proceed at own risk.  [Witt construction company]"
+107	曲【ま】がりくねった狭【せま】い通路【つうろ】の迷路【めいろ】にいる。全【すべ】て違【ちが】って見【み】える。
+107	You are in a maze of twisty little passages, all different.
+108	工事【こうじ】中【ちゅう】の行【ゆ】き止【ど】まりにいる。「全【すべ】ての」方向【ほうこう】に通路【つうろ】がある。
+108	You are at Witt's End.  Passages lead off in *all* directions.
+109	南北【なんぼく】10メートルの谷間【たにま】にいる。床【ゆか】は北【きた】の方【かた】からしみ出【で】た白【しろ】い霧【きり】で覆【おお】われてい
+109	る。壁【かべ】の高【たか】さは30メートル以上【いじょう】ある。頭上【ずじょう】の遥【はる】か上【じょう】の見【み】えない場所【ばしょ】から、巨
+109	大【だい】な両面【りょうめん】の鏡【かがみ】が壁【かべ】の中央【ちゅうおう】に平行【へいこう】につるされている。 (鏡【きょう】は明【あき】らかにドワーフ
+109	が使【つか】うために用意【ようい】したものだが、あなたも知【し】ってのとおり、それは全【まった】く無駄【むだ】
+109	である。) 小【ちい】さな窓【まど】が両側【りょうがわ】の壁【かべ】の5メートル上【じょう】に見【み】える。
+109	You are in a north/south canyon about 25 feet across.  The floor is
+109	covered by white mist seeping in from the north.  The walls extend
+109	upward for well over 100 feet.  Suspended from some unseen point far
+109	above you, an enormous two-sided mirror is hanging parallel to and
+109	midway between the canyon walls.  (The mirror is obviously provided
+109	for the use of the dwarves, who as you know, are extremely vain.)  A
+109	small window can be seen in either wall, some fifty feet up.
+110	巨大【きょだい】な穴【あな】を見渡【みわた】せる小【ちい】さな窓【まど】の前【まえ】にいる。上【うえ】はよく見【み】えない。穴【あな】の底【そこ】の15メ
+110	ートル下【か】にぼんやりと見【み】え、少【すこ】しの白【しろ】い霧【きり】が底【そこ】をおおっている。霧【きり】は左【ひだり】の方【ほう】
+110	ほど濃【こ】くなっている。窓【まど】の周【まわ】りのほこりのあと見【み】ると、ついさっきまでここ
+110	に人【ひと】がいたようである。10メートルむこうには同【おな】じような窓【まど】の明【あか】るい部屋【へや】が
+110	あり、人影【ひとかげ】があなたをじっと見【み】ている。
+110	You're at a low window overlooking a huge pit, which extends up out of
+110	sight.  A floor is indistinctly visible over 50 feet below.  Traces of
+110	white mist cover the floor of the pit, becoming thicker to the left.
+110	Marks in the dust around the window would seem to indicate that
+110	someone has been here recently.  Directly across the pit from you and
+110	25 feet away there is a similar window looking into a lighted room.  A
+110	shadowy figure can be seen there peering back at you.
+111	大【おお】きな鍾乳石【しょうにゅうせき】が天井【てんじょう】から地面【じめん】近【ちか】くまで垂【た】れ下【さ】がっている。それをつたって降【くだ】
+111	り、床【ゆか】に飛【と】び降【お】りることができるが、登【のぼ】って戻【もど】ることはできないだろう。
+111	A large stalactite extends from the roof and almost reaches the floor
+111	below.  You could climb down it, and jump from it to the floor, but
+111	having done so you would be unable to reach it to climb back up.
+112	入【い】り組【く】んだ通路【つうろ】の狭【せま】い迷路【めいろ】にいる。全【すべ】て違【ちが】って見【み】える。
+112	You are in a little maze of twisting passages, all different.
+113	広【ひろ】い地下【ちか】湖【みずうみ】の淵【ふち】にいる。あたりを満【み】たす不透明【ふとうめい】な白【しろ】い霧【きり】がすばやく上昇【じょうしょう】して
+113	いる。地下【ちか】湖【みずうみ】には3メートル上【じょう】の壁【かべ】の穴【あな】から水【みず】が流【なが】れこみ、霧【きり】の中【なか】で水音【みずおと】をた
+113	てている。ここから出【で】るには南【みなみ】の通路【つうろ】を戻【もど】るしかない。
+113	You are at the edge of a large underground reservoir.  An opaque cloud
+113	of white mist fills the room and rises rapidly upward.  The lake is
+113	fed by a stream, which tumbles out of a hole in the wall about 10 feet
+113	overhead and splashes noisily into the water somewhere within the
+113	mist.  The only passage goes back toward the south.
+114	行【ゆ】き止【ど】まりだ。
+114	Dead end
+115	「巨大【きょだい】な部屋【へや】」よりも、さらに大【おお】きな部屋【へや】の北東【ほくとう】の端【はじ】にいる。ここは「アド
+115	ベンチャー」プログラムの倉庫【そうこ】のようだ。頭上【ずじょう】の巨大【きょだい】な松明【たいまつ】の煙【けむり】と黄色【きいろ】い光【ひかり】
+115	で部屋【へや】は満【み】たされいる。山【やま】のようなビン(全【すべ】て空【そら】だ)、つぶやく豆【まめ】の苗床【なえどこ】、養【よう】
+115	殖中のカキ、束【たば】になった錆【さ】びた星【ほし】のついた黒【くろ】い杖【つえ】、そしてたくさんの真鍮の
+115	ランタンが散【ち】らばっているのが見【み】える。別【べつ】の側【がわ】では大勢【たいせい】のドワーフが床【ゆか】の上【うえ】
+115	で大【おお】きないびきをかいて眠【ねむ】っていて、その近【ちか】くには『ドワーフをおこすな』
+115	と書【か】かれている。巨大【きょだい】な鏡【かがみ】が壁【かべ】を後【うし】ろにしてつり下【さ】げられており、部屋【へや】の別【べつ】
+115	の側【がわ】までのびている。そこには別【べつ】の色々【いろいろ】なものがかすかに見【み】える。
+115	You are at the northeast end of an immense room, even larger than the
+115	Giant Room.  It appears to be a repository for the "Adventure"
+115	program.  Massive torches far overhead bathe the room with smoky
+115	yellow light.  Scattered about you can be seen a pile of bottles (all
+115	of them empty), a nursery of young beanstalks murmuring quietly, a bed
+115	of oysters, a bundle of black rods with rusty stars on their ends, and
+115	a collection of brass lanterns.  Off to one side a great many dwarves
+115	are sleeping on the floor, snoring loudly.  A sign nearby reads: "Do
+115	not disturb the dwarves!"  An immense mirror is hanging against one
+115	wall, and stretches to the other end of the room, where various other
+115	sundry objects can be glimpsed dimly in the distance.
+116	倉庫【そうこ】の南西【なんせい】の端【はじ】にいる。ある方向【ほうこう】には獰猛【どうもう】な緑色【りょくしょく】のヘビでいっぱいの穴【あな】があ
+116	る。別【べつ】の方向【ほうこう】には小【しょう】枝【えだ】のかごが並【なら】んでいて、その中【なか】には不機嫌【ふきげん】そうな小鳥【ことり】が
+116	いる。隅【すみ】には束【たば】になった錆【さ】びた印【しるし】のついた杖【つえ】が置【お】いてある。床【ゆか】にはたくさん
+116	のベルベットのまくらが散【ち】らばっている。巨大【きょだい】な鏡【かがみ】が北東【ほくとう】にのびている。足【あし】
+116	元【げん】には大【おお】きな鉄格子【てつごうし】があり、その向【む】こうに『宝物【ほうもつ】庫【こ】。鍵【かぎ】はメインオフィス』
+116	と書【か】かれている。
+116	You are at the southwest end of the Repository.  To one side is a pit
+116	full of fierce green snakes.  On the other side is a row of small
+116	wicker cages, each of which contains a little sulking bird.  In one
+116	corner is a bundle of black rods with rusty marks on their ends.  A
+116	large number of velvet pillows are scattered about on the floor.  A
+116	vast mirror stretches off to the northeast.  At your feet is a large
+116	steel grate, next to which is a sign which reads, "Treasure Vault.
+116	Keys in Main Office."
+117	広【ひろ】く深【ふか】い穴【あな】の淵【ふち】にいる。下【した】から登【のぼ】ってくる白【しろ】く濃【こ】い霧【きり】のため遠【とお】くが見【み】えない。
+117	南西【なんせい】の道【みち】は、穴【あな】から離【はな】れた風【かぜ】の吹【ふ】く廊下【ろうか】に続【つづ】いている。
+117	You are on one side of a large, deep chasm.  A heavy white mist rising
+117	up from below obscures all view of the far side.  A SW path leads away
+117	from the chasm into a winding corridor.
+118	風【ふう】の吹【ふ】く傾【かたむ】いた長【なが】い廊下【ろうか】にいる。どちらの側【がわ】の端【はじ】も見【み】えない。
+118	You are in a long winding corridor sloping out of sight in both
+118	directions.
+119	隠【かく】された谷間【たにま】にいる。北【きた】と東【ひがし】に出口【でぐち】がある。
+119	You are in a secret canyon which exits to the north and east.
+120	隠【かく】された谷間【たにま】にいる。北【きた】と東【ひがし】に出口【でぐち】がある。
+120	You are in a secret canyon which exits to the north and east.
+121	隠【かく】された谷間【たにま】にいる。北【きた】と東【ひがし】に出口【でぐち】がある。
+121	You are in a secret canyon which exits to the north and east.
+122	深【ふか】い穴【あな】から離【はな】れた場所【ばしょ】にいる。北東【ほくとう】にここから離【はな】れる道【みち】がある。
+122	You are on the far side of the chasm.  A NE path leads away from the
+122	chasm on this side.
+123	東西【とうざい】の長【なが】い廊下【ろうか】にいる。かすかなゴロゴロという音【おと】が遠【とお】くから聞【きこ】える。
+123	You're in a long east/west corridor.  A faint rumbling noise can be
+123	heard in the distance.
+124	道【みち】が二【に】手【て】に分【わ】かれている。左【ひだり】の道【みち】は北東【ほくとう】にあり、鈍【にぶ】いゴロゴロという音【おと】はこ
+124	ちらのほうで大【おお】きくなっているようだ。右【みぎ】の道【みち】は南東【なんとう】にあり、ゆるやかな下【した】
+124	りになっている。西【にし】に分【わ】かれる前【まえ】の廊下【ろうか】がある。
+124	The path forks here.  The left fork leads northeast.  A dull rumbling
+124	seems to get louder in that direction.  The right fork leads southeast
+124	down a gentle slope.  The main corridor enters from the west.
+125	ここの壁【かべ】はとても暖【あたた】かい。北【きた】からは変【か】わらずに大【おお】きな音【おと】が聞【きこ】え、洞窟【どうくつ】全体【ぜんたい】が
+125	揺【ゆ】れているようだ。南【みなみ】には別【べつ】の道【みち】があり、東【ひがし】には低【ひく】く這【は】って進【すす】むことができ
+125	る通路【つうろ】がある。
+125	The walls are quite warm here.  From the north can be heard a steady
+125	roar, so loud that the entire cave seems to be trembling.  Another
+125	passage leads south, and a low crawl goes east.
+126	息【いき】をのむような眺【なが】めの場所【ばしょ】の端【はじ】にいる。遥【はる】か下【か】には活動【かつどう】中【ちゅう】の火山【かざん】がから大量【たいりょう】
+126	の溶岩【ようがん】が吹【ふ】きだし、深【ふか】いところに流【なが】れている。遠【とお】くにある洞窟【どうくつ】の壁【かべ】の焼【や】けた
+126	岩【いわ】は血【ち】のような赤色【あかいろ】に輝【かがや】いていて、全【すべ】てが恐【おそ】ろしく不気味【ぶきみ】に見【み】える。あたり
+126	は火【ひ】の粉【こ】が舞【ま】い、硫黄【いおう】のにおいで満【み】ちている。壁【かべ】は触【ふ】れないほど熱【あつ】く、火山【かざん】
+126	は他【た】の音【おと】が聞【き】こえないほど大【おお】きな音【おと】をたてている。頭上【ずじょう】には無数【むすう】の雪【ゆき】形【がた】石膏【せっこう】
+126	のつららがあり、それらは陰気【いんき】な光【ひかり】を放【はな】ち壁【かべ】を邪悪【じゃあく】な雰囲気【ふんいき】で照【て】らしている。
+126	別【べつ】の方向【ほうこう】には深【ふか】い谷【たに】があり、そこには悪魔【あくま】によって作【つく】られたかのような奇妙【きみょう】
+126	にねじれた岩【いわ】が無数【むすう】にある。巨大【きょだい】な溶岩【ようがん】の川【かわ】が火山【かざん】の奥底【おくそこ】から峡谷【きょうこく】を通【とお】り、
+126	あなたの左側【ひだりがわ】にある底【そこ】なしの穴【あな】に流【なが】れている。右【みぎ】には熱湯【ねっとう】の間欠泉【かんけつせん】があり、
+126	それは無気味【ぶきみ】に泡立【あわだ】つ硫黄【いおう】の池【いけ】の中央【ちゅうおう】にある島【しま】から噴【ふ】き出【で】ている。右【みぎ】遠方【えんぽう】の
+126	壁【かべ】は熱【ねつ】で輝【かがや】いており、地獄【じごく】のような風景【ふうけい】の中【なか】で恐【おそ】ろしげな光【ひかり】を放【はな】っている。
+126	南【みなみ】に暗【くら】く、嫌【いや】な予感【よかん】のする出口【でぐち】の通路【つうろ】がある。
+126	You are on the edge of a breath-taking view.  Far below you is an
+126	active volcano, from which great gouts of molten lava come surging
+126	out, cascading back down into the depths.  The glowing rock fills the
+126	farthest reaches of the cavern with a blood-red glare, giving every-
+126	thing an eerie, macabre appearance.  The air is filled with flickering
+126	sparks of ash and a heavy smell of brimstone.  The walls are hot to
+126	the touch, and the thundering of the volcano drowns out all other
+126	sounds.  Embedded in the jagged roof far overhead are myriad twisted
+126	formations composed of pure white alabaster, which scatter the murky
+126	light into sinister apparitions upon the walls.  To one side is a deep
+126	gorge, filled with a bizarre chaos of tortured rock which seems to
+126	have been crafted by the devil himself.  An immense river of fire
+126	crashes out from the depths of the volcano, burns its way through the
+126	gorge, and plummets into a bottomless pit far off to your left.  To
+126	the right, an immense geyser of blistering steam erupts continuously
+126	from a barren island in the center of a sulfurous lake, which bubbles
+126	ominously.  The far right wall is aflame with an incandescence of its
+126	own, which lends an additional infernal splendor to the already
+126	hellish scene.  A dark, foreboding passage exits to the south.
+127	大【おお】きな石【いし】で満【み】たされた狭【せま】い部屋【へや】にいる。壁【かべ】はとても暖【あたた】かく、それにより空気【くうき】
+127	が暖【あたた】められ息【いき】が詰【つ】まるようだ。出口【でぐち】は西【にし】の低【ひく】いゴロゴロと音【おと】を立【た】てる這【は】って
+127	進【すす】む通路【つうろ】しかない。
+127	You are in a small chamber filled with large boulders.  The walls are
+127	very warm, causing the air in the room to be almost stifling from the
+127	heat.  The only exit is a crawl heading west, through which is coming
+127	a low rumbling.
+128	奇妙【きみょう】な石灰岩【せっかいがん】の並【なら】ぶ、緩【ゆる】やかな南北【なんぼく】の坂道【さかみち】を歩【ある】いている。
+128	You are walking along a gently sloping north/south passage lined with
+128	oddly shaped limestone formations.
+129	広【ひろ】く殺風景【さっぷうけい】な部屋【へや】の前【まえ】に立【た】っている。入【い】り口【くち】には『熊【くま】に注意【ちゅうい】! 』と書【か】かれて
 129	いる。
-130	殺風景な部屋の中にいる。中央のいくらかのほこり以外には完全になにもな
-130	い。ほこりの上の跡が奥に続いている。出口はあなたの入ってきた道しかな
+129	You are standing at the entrance to a large, barren room.  A sign
+129	posted above the entrance reads:  "Caution!  Bear in room!"
+130	殺風景【さっぷうけい】な部屋【へや】の中【なか】にいる。中央【ちゅうおう】のいくらかのほこり以外【いがい】には完全【かんぜん】になにもな
+130	い。ほこりの上【うえ】の跡【あと】が奥【おく】に続【つづ】いている。出口【でぐち】はあなたの入【はい】ってきた道【みち】しかな
 130	い。
-131	入り組んだ狭い通路の迷路にいる。全て違って見える。
-132	曲がりくねった通路の狭い迷路にいる。全て違って見える。
-133	狭い通路の入り組んだ迷路にいる。全て違って見える。
-134	入り組んだ狭い迷路の通路にいる。全て違って見える。
-135	曲がりくねった狭い迷路の通路にいる。全て違って見える。
-136	狭い通路の曲がりくねった通路にいる。全て違って見える。
-137	狭い曲がりくねった迷路の通路にいる。全て違って見える。
-138	狭い入り組んだ通路の迷路にいる。全て違って見える。
-139	狭い曲がりくねった通路の迷路にいる。全て違って見える。
-140	行き止まりだ。
+130	You are inside a barren room.  The center of the room is completely
+130	empty except for some dust.  Marks in the dust lead away toward the
+130	far end of the room.  The only exit is the way you came in.
+131	入【い】り組【く】んだ狭【せま】い通路【つうろ】の迷路【めいろ】にいる。全【すべ】て違【ちが】って見【み】える。
+131	You are in a maze of twisting little passages, all different.
+132	曲【ま】がりくねった通路【つうろ】の狭【せま】い迷路【めいろ】にいる。全【すべ】て違【ちが】って見【み】える。
+132	You are in a little maze of twisty passages, all different.
+133	狭【せま】い通路【つうろ】の入【い】り組【く】んだ迷路【めいろ】にいる。全【すべ】て違【ちが】って見【み】える。
+133	You are in a twisting maze of little passages, all different.
+134	入【い】り組【く】んだ狭【せま】い迷路【めいろ】の通路【つうろ】にいる。全【すべ】て違【ちが】って見【み】える。
+134	You are in a twisting little maze of passages, all different.
+135	曲【ま】がりくねった狭【せま】い迷路【めいろ】の通路【つうろ】にいる。全【すべ】て違【ちが】って見【み】える。
+135	You are in a twisty little maze of passages, all different.
+136	狭【せま】い通路【つうろ】の曲【ま】がりくねった通路【つうろ】にいる。全【すべ】て違【ちが】って見【み】える。
+136	You are in a twisty maze of little passages, all different.
+137	狭【せま】い曲【ま】がりくねった迷路【めいろ】の通路【つうろ】にいる。全【すべ】て違【ちが】って見【み】える。
+137	You are in a little twisty maze of passages, all different.
+138	狭【せま】い入【い】り組【く】んだ通路【つうろ】の迷路【めいろ】にいる。全【すべ】て違【ちが】って見【み】える。
+138	You are in a maze of little twisting passages, all different.
+139	狭【せま】い曲【ま】がりくねった通路【つうろ】の迷路【めいろ】にいる。全【すべ】て違【ちが】って見【み】える。
+139	You are in a maze of little twisty passages, all different.
+140	行【ゆ】き止【ど】まりだ。
+140	Dead end
 -1	End
 2
-1	道の終点に戻った。
-2	丘の道にいる。
-3	小屋の中にいる。
-4	谷にいる。
-5	森にいる。
-6	森にいる。
-7	川底に隙間のある場所にいる。
-8	鉄格子の外にいる。
-9	鉄格子の下にいる。
-10	石で覆われた通路にいる。
-11	堆積物の部屋にいる。
-13	小鳥の部屋にいる。
-14	小さな穴の上にいる。
-15	霧の広間にいる。
-17	地割れの東側にいる。
-18	金塊の部屋にいる。
-19	「山の魔王の宮殿」にいる。
-23	2つの穴の部屋の西側にいる。
-24	東の穴にいる。
-25	西の穴にいる。
+1	道【みち】の終点【しゅうてん】に戻【もど】った。
+1	You're at end of road again.
+2	丘【おか】の道【みち】にいる。
+2	You're at hill in road.
+3	小屋【こや】の中【なか】にいる。
+3	You're inside building.
+4	谷【たに】にいる。
+4	You're in valley.
+5	森【もり】にいる。
+5	You're in forest.
+6	森【もり】にいる。
+6	You're in forest.
+7	川底【かわぞこ】に隙間【すきま】のある場所【ばしょ】にいる。
+7	You're at slit in streambed.
+8	鉄格子【てつごうし】の外【そと】にいる。
+8	You're outside grate.
+9	鉄格子【てつごうし】の下【した】にいる。
+9	You're below the grate.
+10	石【せき】で覆【おお】われた通路【つうろ】にいる。
+10	You're in Cobble Crawl.
+11	堆積【たいせき】物【ぶつ】の部屋【へや】にいる。
+11	You're in Debris Room.
+13	小鳥【ことり】の部屋【へや】にいる。
+13	You're in Bird Chamber.
+14	小【ちい】さな穴【あな】の上【うえ】にいる。
+14	You're at top of small pit.
+15	霧【きり】の広間【ひろま】にいる。
+15	You're in Hall of Mists.
+17	地割【じわ】れの東側【ひがしがわ】にいる。
+17	You're on east bank of fissure.
+18	金塊【きんかい】の部屋【へや】にいる。
+18	You're in Nugget of Gold Room.
+19	「山【やま】の魔王【まおう】の宮殿【きゅうでん】」にいる。
+19	You're in Hall of Mt King.
+23	2つの穴【あな】の部屋【へや】の西側【にしがわ】にいる。
+23	You're at west end of Twopit Room.
+24	東【ひがし】の穴【あな】にいる。
+24	You're in east pit.
+25	西【にし】の穴【あな】にいる。
+25	You're in west pit.
 33	『 Y2 』にいる。
-35	窓の前にいる。
-36	泥だらけの通路にいる。
-39	ほこりだらけの岩の部屋にいる。
-41	霧の広間の西側にいる。
-57	穴の淵にいる。
-60	長い広間の東側にいる。
-61	長い広間の西側にいる。
-64	複雑な交差点にいる。
-66	スイスチーズの部屋にいる。
-67	2つの穴の部屋の東側にいる。
-68	岩盤の部屋にいる。
-71	3つの隠された谷間の交差点にいる。
-74	東西の隠された狭い谷間にいる。
-88	狭い廊下にいる。
-91	広い部屋の上の険しい坂道にいる。
-92	巨大な部屋にいる。
-95	滝のある洞窟にいる。
-96	やわらかい部屋にいる。
-97	東洋的な部屋にいる。
-98	霧の洞窟にいる。
+33	You're at "Y2".
+35	窓【まど】の前【まえ】にいる。
+35	You're at window on pit.
+36	泥【どろ】だらけの通路【つうろ】にいる。
+36	You're in dirty passage.
+39	ほこりだらけの岩【いわ】の部屋【へや】にいる。
+39	You're in Dusty Rock room.
+41	霧【きり】の広間【ひろま】の西側【にしがわ】にいる。
+41	You're at west end of Hall of Mists.
+57	穴【あな】の淵【ふち】にいる。
+57	You're at brink of pit.
+60	長【なが】い広間【ひろま】の東側【ひがしがわ】にいる。
+60	You're at east end of Long Hall.
+61	長【なが】い広間【ひろま】の西側【にしがわ】にいる。
+61	You're at west end of Long Hall.
+64	複雑【ふくざつ】な交差点【こうさてん】にいる。
+64	You're at Complex Junction.
+66	スイスチーズの部屋【へや】にいる。
+66	You're in Swiss Cheese room.
+67	2つの穴【あな】の部屋【へや】の東側【ひがしがわ】にいる。
+67	You're at east end of Twopit Room.
+68	岩盤【がんばん】の部屋【へや】にいる。
+68	You're in Slab Room.
+71	3つの隠【かく】された谷間【たにま】の交差点【こうさてん】にいる。
+71	You're at junction of three secret canyons.
+74	東西【とうざい】の隠【かく】された狭【せま】い谷間【たにま】にいる。
+74	You're in secret E/W canyon above tight canyon.
+88	狭【せま】い廊下【ろうか】にいる。
+88	You're in narrow corridor.
+91	広【ひろ】い部屋【へや】の上【うえ】の険【けわ】しい坂道【さかみち】にいる。
+91	You're at steep incline above large room.
+92	巨大【きょだい】な部屋【へや】にいる。
+92	You're in Giant Room.
+95	滝【たき】のある洞窟【どうくつ】にいる。
+95	You're in cavern with waterfall.
+96	やわらかい部屋【へや】にいる。
+96	You're in Soft Room.
+97	東洋【とうよう】的【てき】な部屋【へや】にいる。
+97	You're in Oriental Room.
+98	霧【きり】の洞窟【どうくつ】にいる。
+98	You're in Misty Cavern.
 99	くぼみにいる。
-100	チドリの部屋にいる。
-101	暗い部屋にいる。
-102	アーチ天井の広間にいる。
-103	貝の部屋にいる。
-106	控え室にいる。
-108	工事中にいる。
-109	鏡の谷間にいる。
-110	窓の前にいる。
-111	鍾乳石の頂上にいる。
-113	地下湖にいる。
-115	巨大な部屋の北東にいる。
-116	巨大な部屋の南西にいる。
-117	深い穴の南西にいる。
-118	傾いた廊下にいる。
-122	深い穴の北東にいる。
-123	長い廊下にいる。
-124	分かれ道にいる。
-125	暖かい壁の交差点にいる。
-126	息をのむような場所にいる。
-127	大きな岩の部屋にいる。
-128	石灰岩の通路にいる。
-129	殺風景な部屋の入り口にいる。
-130	殺風景な部屋の中にいる。
+99	You're in Alcove.
+100	チドリの部屋【へや】にいる。
+100	You're in Plover Room.
+101	暗【くら】い部屋【へや】にいる。
+101	You're in Dark-Room.
+102	アーチ天井【てんじょう】の広間【ひろま】にいる。
+102	You're in Arched Hall.
+103	貝【かい】の部屋【へや】にいる。
+103	You're in Shell Room.
+106	控【ひか】え室【しつ】にいる。
+106	You're in Anteroom.
+108	工事【こうじ】中【ちゅう】にいる。
+108	You're at Witt's End.
+109	鏡【きょう】の谷間【たにま】にいる。
+109	You're in Mirror Canyon.
+110	窓【まど】の前【まえ】にいる。
+110	You're at window on pit.
+111	鍾乳石【しょうにゅうせき】の頂上【ちょうじょう】にいる。
+111	You're at top of stalactite.
+113	地下【ちか】湖【みずうみ】にいる。
+113	You're at Reservoir.
+115	巨大【きょだい】な部屋【へや】の北東【ほくとう】にいる。
+115	You're at NE end.
+116	巨大【きょだい】な部屋【へや】の南西【なんせい】にいる。
+116	You're at SW end.
+117	深【ふか】い穴【あな】の南西【なんせい】にいる。
+117	You're on SW side of chasm.
+118	傾【かたむ】いた廊下【ろうか】にいる。
+118	You're in sloping corridor.
+122	深【ふか】い穴【あな】の北東【ほくとう】にいる。
+122	You're on NE side of chasm.
+123	長【なが】い廊下【ろうか】にいる。
+123	You're in corridor.
+124	分【わ】かれ道【みち】にいる。
+124	You're at fork in path.
+125	暖【あたた】かい壁【かべ】の交差点【こうさてん】にいる。
+125	You're at junction with warm walls.
+126	息【いき】をのむような場所【ばしょ】にいる。
+126	You're at Breath-taking View.
+127	大【おお】きな岩【いわ】の部屋【へや】にいる。
+127	You're in Chamber of Boulders.
+128	石灰岩【せっかいがん】の通路【つうろ】にいる。
+128	You're in limestone passage.
+129	殺風景【さっぷうけい】な部屋【へや】の入【い】り口【くち】にいる。
+129	You're in front of barren room.
+130	殺風景【さっぷうけい】な部屋【へや】の中【なか】にいる。
+130	You're in Barren Room.
 -1
 3
 1	2	2	44	29
@@ -925,7 +1291,7 @@
 1005	wand
 1005	rod
 1006	wand
-1006	rod     (must be next object after "real" rod)
+1006	rod	(must be next object after "real" rod)
 1007	steps
 1008	bird
 1009	door
@@ -1112,465 +1478,918 @@
 3147	swim
 -1
 5
-1	鍵束
-000	床にいくつかの鍵がある。
-2	真鍮のランタン
-000	輝く真鍮のランタンが近くにある。
-100	ランタンが近くで光っている。
+1	鍵【かぎ】束【たば】
+1	Set of keys
+0	床【しょう】にいくつかの鍵【かぎ】がある。
+0	There are some keys on the ground here.
+2	真鍮【しんちゅう】のランタン
+2	Brass lantern
+0	輝【かがや】く真鍮【しんちゅう】のランタンが近【ちか】くにある。
+0	There is a shiny brass lamp nearby.
+100	ランタンが近【ちか】くで光【ひか】っている。
+100	There is a lamp shining nearby.
 3	*Grate
-000	鉄格子には鍵がかかっている。
-100	鉄格子は開いている。
-4	小枝を編んだかご
-000	小枝を編んだ小さなかごが近くに落ちている。
-5	黒い杖
-000	錆びた星がついた1メートル程の黒い杖が近くに落ちている。
-6	黒い杖
-000	錆びた印がついた1メートル程の黒い杖が近くに落ちている。
+0	鉄格子【てつごうし】には鍵【かぎ】がかかっている。
+0	The grate is locked.
+100	鉄格子【てつごうし】は開【ひら】いている。
+100	The grate is open.
+4	小【しょう】枝【えだ】を編【あ】んだかご
+4	Wicker cage
+0	小【しょう】枝【えだ】を編【あ】んだ小【ちい】さなかごが近【ちか】くに落【お】ちている。
+0	There is a small wicker cage discarded nearby.
+5	黒【くろ】い杖【つえ】
+5	Black rod
+0	錆【さ】びた星【ほし】がついた1メートル程【ほど】の黒【くろ】い杖【つえ】が近【ちか】くに落【お】ちている。
+0	A three foot black rod with a rusty star on an end lies nearby.
+6	黒【くろ】い杖【つえ】
+6	Black rod
+0	錆【さ】びた印【しるし】がついた1メートル程【ほど】の黒【くろ】い杖【つえ】が近【ちか】くに落【お】ちている。
+0	A three foot black rod with a rusty mark on an end lies nearby.
 7	*Steps
-000	荒い岩の足場が穴の下に続いている。
-100	荒い岩の足場がドームの上へと続いている。
-8	かごの中の小鳥
-000	きれいな小鳥がとまりながら歌っている。
-100	かごの中には小鳥がいる。
+0	荒【あら】い岩【いわ】の足場【あしば】が穴【あな】の下【した】に続【つづ】いている。
+0	Rough stone steps lead down the pit.
+100	荒【あら】い岩【いわ】の足場【あしば】がドームの上【うえ】へと続【つづ】いている。
+100	Rough stone steps lead up the dome.
+8	かごの中【なか】の小鳥【ことり】
+8	Little bird in cage
+0	きれいな小鳥【ことり】がとまりながら歌【うた】っている。
+0	A cheerful little bird is sitting here singing.
+100	かごの中【なか】には小鳥【ことり】がいる。
+100	There is a little bird in the cage.
 9	*Rusty door
-000	北への通路は湿って錆びた鉄の扉で塞がれている。
-100	北には開いた湿って錆びた鉄の扉がある。
-10	ベルベットの枕
-000	小さなベルベットの枕が床に置かれている。
+0	北【きた】への通路【つうろ】は湿【しめ】って錆【さ】びた鉄【てつ】の扉【とびら】で塞【ふさ】がれている。
+0	The way north is barred by a massive, rusty, iron door.
+100	北【きた】には開【ひら】いた湿【しめ】って錆【さ】びた鉄【てつ】の扉【とびら】がある。
+100	The way north leads through a massive, rusty, iron door.
+10	ベルベットの枕【まくら】
+10	Velvet pillow
+0	小【ちい】さなベルベットの枕【まくら】が床【ゆか】に置【お】かれている。
+0	A small velvet pillow lies on the floor.
 11	*Snake
-000	凶暴そうな緑色の巨大なヘビが道をふさいでいる!
+0	凶暴【きょうぼう】そうな緑色【りょくしょく】の巨大【きょだい】なヘビが道【みち】をふさいでいる!
+0	A huge green fierce snake bars the way!
 100	>$<  (Chased away)
 12	*Fissure
-000	>$<
-100	水晶の橋がかかっている。
-200	水晶の橋は消えた!
+0	>$<
+100	水晶【すいしょう】の橋【はし】がかかっている。
+100	A crystal bridge now spans the fissure.
+200	水晶【すいしょう】の橋【はし】は消【き】えた!
+200	The crystal bridge has vanished!
 13	*Stone tablet
-000	巨大な石版が壁にうめこまれている。
-000	『おめでとう! よくぞ暗い部屋に明かりを持ち込んだ! 』
-14	巨大ハマグリ  >ブツブツ!<
-000	殻を固く閉じた巨大なハマグリがいる。
-15	巨大カキ  >ウググ!<
-000	殻を固く閉じた巨大なカキがいる。
-100	おもしろい。カキの下側に何か書いてあるようだ。
-16	雑誌『今日の探検』
-000	最近発行された雑誌『今日の探検』がある。
-19	おいしそうな食べ物
-000	食べ物がある。
-20	小さなビン
-000	水の入ったビンがある。
-100	空のビンがある。
-200	油の入ったビンがある。
-21	ビンの中の水
-22	ビンの中の油
+0	巨大【きょだい】な石版【せきばん】が壁【かべ】にうめこまれている。
+0	A massive stone tablet embedded in the wall reads:
+0	『おめでとう! よくぞ暗【くら】い部屋【へや】に明【あ】かりを持【も】ち込【こ】んだ! 』
+0	Congratulations on bringing light into the Dark-Room!
+14	巨大【きょだい】ハマグリ  >ブツブツ!<
+14	Giant clam  >grunt!<
+0	殻【から】を固【かた】く閉【と】じた巨大【きょだい】なハマグリがいる。
+0	There is an enormous clam here with its shell tightly closed.
+15	巨大【きょだい】カキ  >ウググ!<
+15	Giant oyster  >groan!<
+0	殻【から】を固【かた】く閉【と】じた巨大【きょだい】なカキがいる。
+0	There is an enormous oyster here with its shell tightly closed.
+100	おもしろい。カキの下【した】側【がわ】に何【なに】か書【か】いてあるようだ。
+100	Interesting.  There seems to be something written on the underside of
+100	The oyster.
+16	雑誌【ざっし】『今日【きょう】の探検【たんけん】』
+16	Spelunker Today
+0	最近【さいきん】発行【はっこう】された雑誌【ざっし】『今日【きょう】の探検【たんけん】』がある。
+0	There are a few recent issues of "Spelunker Today" magazine here.
+19	おいしそうな食【た】べ物【もの】
+19	Tasty food
+0	食【た】べ物【もの】がある。
+0	There is food here.
+20	小【ちい】さなビン
+20	Small bottle
+0	水【みず】の入【はい】ったビンがある。
+0	There is a bottle of water here.
+100	空【そら】のビンがある。
+100	There is an empty bottle here.
+200	油【あぶら】の入【はい】ったビンがある。
+200	There is a bottle of oil here.
+21	ビンの中【なか】の水【みず】
+21	Water in the bottle
+22	ビンの中【なか】の油【あぶら】
+22	Oil in the bottle
 23	*Mirror
-000	>$<
+0	>$<
 24	*Plant
-000	穴の中で小さな植物がつぶやいている。「水、水、…」
-100	植物はものすごい速さで数秒間成長した。
-200	5メートルの高さの穴の外まで伸びた豆のつるが叫んでいる。「水!! 水!!」
-300	植物は爆発的に成長し、穴の底をほとんど埋めつくした。
-400	穴の上のあらゆる方向に伸びた巨大な豆のつるがある。
-500	植物に水をやりすぎた! 植物は縮んだ、縮んだ、縮んだ…
+0	穴【あな】の中【なか】で小【ちい】さな植物【しょくぶつ】がつぶやいている。「水【みず】、水【みず】、…」
+0	There is a tiny little plant in the pit, murmuring "Water, water, ..."
+100	植物【しょくぶつ】はものすごい速【はや】さで数【すう】秒間【びょうかん】成長【せいちょう】した。
+100	The plant spurts into furious growth for a few seconds.
+200	5メートルの高【たか】さの穴【あな】の外【そと】まで伸【の】びた豆【まめ】のつるが叫【さけ】んでいる。「水【みず】!! 水【すい】!!」
+200	There is a 12-foot-tall beanstalk stretching up out of the pit,
+300	植物【しょくぶつ】は爆発【ばくはつ】的【てき】に成長【せいちょう】し、穴【あな】の底【そこ】をほとんど埋【う】めつくした。
+200	bellowing "WATER!! WATER!!"
+400	穴【あな】の上【うえ】のあらゆる方向【ほうこう】に伸【の】びた巨大【きょだい】な豆【まめ】のつるがある。
+300	The plant grows explosively, almost filling the bottom of the pit.
+500	植物【しょくぶつ】に水【みず】をやりすぎた! 植物【しょくぶつ】は縮【ちぢ】んだ、縮【ちぢ】んだ、縮【ちぢ】んだ…
+400	There is a gigantic beanstalk stretching all the way up to the hole.
+500	You've over-watered the plant!  It's shriveling up!  It's, it's...
 25	*Phony plant (seen in twopit room only when tall enough)
-000	>$<
-100	5メートルの豆のつるが西の穴から突き出している。
-200	西の穴の外まで成長した巨大な豆のつるがある。
+0	>$<
+0	>$<
+100	5メートルの豆【まめ】のつるが西【にし】の穴【あな】から突【つ】き出【だ】している。
+100	The top of a 12-foot-tall beanstalk is poking out of the west pit.
+200	西【にし】の穴【あな】の外【そと】まで成長【せいちょう】した巨大【きょだい】な豆【まめ】のつるがある。
+200	There is a huge beanstalk growing out of the west pit up to the hole.
 26	*Stalactite
-000	>$<
+0	>$<
 27	*Shadowy figure
-000	人影はあなたの注意を引こうとしているようだ。
-28	ドワーフの斧
-000	小さな斧がある。
-100	熊の近くに小さな斧が落ちている。
+0	人影【ひとかげ】はあなたの注意【ちゅうい】を引【ひ】こうとしているようだ。
+0	The shadowy figure seems to be trying to attract your attention.
+28	ドワーフの斧【おの】
+28	Dwarf's axe
+0	小【ちい】さな斧【おの】がある。
+0	There is a little axe here.
+100	熊【くま】の近【ちか】くに小【ちい】さな斧【おの】が落【お】ちている。
+100	There is a little axe lying beside the bear.
 29	*Cave drawings
-000	>$<
+0	>$<
 30	*Pirate
-000	>$<
+0	>$<
 31	*Dragon
-000	巨大な緑色の凶暴そうな竜が行く手を阻んでいる!
-100	おめでとう! あなたは素手で竜を退治した! (信じられないって?)
-200	巨大な緑色の竜の死体が横たわっている。
+0	巨大【きょだい】な緑色【りょくしょく】の凶暴【きょうぼう】そうな竜【りゅう】が行【ゆ】く手【て】を阻【はば】んでいる!
+0	A huge green fierce dragon bars the way!
+100	おめでとう! あなたは素手【すで】で竜【りゅう】を退治【たいじ】した! (信【しん】じられないって?)
+100	Congratulations!  You have just vanquished a dragon with your bare
+200	巨大【きょだい】な緑色【りょくしょく】の竜【りゅう】の死体【したい】が横【よこ】たわっている。
+100	hands!  (Unbelievable, isn't it?)
+200	The body of a huge green dead dragon is lying off to one side.
 32	*Chasm
-000	霧で向こう岸の見えない深い穴に、ぐらつく木の橋がかかっている。橋の側
-000	には『止まれ! 通行料を払え! 』と書かれている。
-100	橋の残骸(と熊の死体)が深い穴の底に見える。
+0	霧【きり】で向【む】こう岸【ぎし】の見【み】えない深【ふか】い穴【あな】に、ぐらつく木【き】の橋【はし】がかかっている。橋【はし】の側【がわ】
+0	A rickety wooden bridge extends across the chasm, vanishing into the
+0	には『止【と】まれ! 通行【つうこう】料【りょう】を払【はら】え! 』と書【か】かれている。
+0	mist.  A sign posted on the bridge reads, "Stop! Pay troll!"
+100	橋【きょう】の残骸【ざんがい】(と熊【くま】の死体【したい】)が深【ふか】い穴【あな】の底【そこ】に見【み】える。
+100	The wreckage of a bridge (and a dead bear) can be seen at the bottom
+100	of the chasm.
 33	*Troll
-000	屈強なトロルが橋の前に立ち、橋を渡る前に財宝を彼に向かって投げるよう
-000	に要求している。
-100	トロルが橋の下から現れ、行く手をさえぎった。
+0	屈強【くっきょう】なトロルが橋【はし】の前【まえ】に立【た】ち、橋【はし】を渡【わた】る前【まえ】に財宝【ざいほう】を彼【かれ】に向【む】かって投【な】げるよう
+0	A burly troll stands by the bridge and insists you throw him a
+0	に要求【ようきゅう】している。
+0	treasure before you may cross.
+100	トロルが橋【はし】の下【した】から現【あらわ】れ、行【ゆ】く手【て】をさえぎった。
+100	The troll steps out from beneath the bridge and blocks your way.
 200	>$<  (Chased away)
 34	*Phony troll
-000	トロルはいないようだ。
+0	トロルはいないようだ。
+0	The troll is nowhere to be seen.
 35	>$<  (Bear uses rtext 141)
-000	奥で凶暴そうな洞窟熊がにらんでいる。
-100	洞窟熊がおとなしく隅に座っている。
-200	満腹したような熊が周りをうろついている。
+0	奥【おく】で凶暴【きょうぼう】そうな洞窟【どうくつ】熊【くま】がにらんでいる。
+0	There is a ferocious cave bear eying you from the far end of the room!
+100	洞窟【どうくつ】熊【くま】がおとなしく隅【すみ】に座【すわ】っている。
+100	There is a gentle cave bear sitting placidly in one corner.
+200	満腹【まんぷく】したような熊【くま】が周【まわ】りをうろついている。
+200	There is a contented-looking bear wandering about nearby.
 300	>$<  (Dead)
 36	*Message in second maze
-000	床のほこりに、すばらしくひどい文字でなぐり書きされている。『ここは海
-000	賊が宝を隠した迷路ではありません。』
+0	床【しょう】のほこりに、すばらしくひどい文字【もじ】でなぐり書【が】きされている。『ここは海【うみ】
+0	There is a message scrawled in the dust in a flowery script, reading:
+0	賊【ぞく】が宝【たから】を隠【かく】した迷路【めいろ】ではありません。』
+0	This is not the maze where the pirate leaves his treasure chest.
 37	*Volcano and/or geyser
-000	>$<
+0	>$<
 38	*Vending machine
-000	巨大な自動販売機がある。『バッテリー購入のさいは、ここにコインを投入
-000	して下さい。』
+0	巨大【きょだい】な自動【じどう】販売【はんばい】機【き】がある。『バッテリー購入【こうにゅう】のさいは、ここにコインを投入【とうにゅう】
+0	There is a massive vending machine here.  The instructions on it read:
+0	して下【くだ】さい。』
+0	Drop coins here to receive fresh batteries.
 39	バッテリー
-000	新品のバッテリーがある。
-100	いくつかの使い切ったバッテリーが近くに捨てられている。
+39	Batteries
+0	新品【しんぴん】のバッテリーがある。
+0	There are fresh batteries here.
+100	いくつかの使【つか】い切【き】ったバッテリーが近【ちか】くに捨【す】てられている。
+100	Some worn-out batteries have been discarded nearby.
 40	*Carpet and/or moss
-000	>$<
-50	大きな金塊
-000	輝く大きな金塊がある!
+0	>$<
+50	大【おお】きな金塊【きんかい】
+50	Large gold nugget
+0	輝【かがや】く大【おお】きな金塊【きんかい】がある!
+0	There is a large sparkling nugget of gold here!
 51	いくつものダイヤモンド
-000	いくつものダイヤモンドがある!
-52	銀の延べ棒
-000	銀の延べ棒がある!
-53	価値ある宝石
-000	価値ある宝石がある!
-54	希少な金貨
-000	たくさんの金貨がある!
-55	宝箱
-000	海賊の宝箱がある!
-56	金の卵
-000	金の卵で満たされた大きな巣がある!
-100	金の卵の巣は消えた!
-200	魔法をかけ終えた!
-57	宝石の付いた矛
-000	宝石をちりばめた三つ又の矛がある!
-58	明朝磁器の壷
-000	壊れやすい、貴重な、明朝磁器の壷がある!
-100	壷をベルベットの枕の上にそっと置いた。
-200	床には無価値な陶器のかけらが散らばっている。
-300	明朝磁器の壷は落ちて壊れた。
-59	卵くらいのエメラルド
-000	チドリの卵ほどの大きさのエメラルドがある!
+51	Several diamonds
+0	いくつものダイヤモンドがある!
+0	There are diamonds here!
+52	銀【ぎん】の延【の】べ棒【ぼう】
+52	Bars of silver
+0	銀【ぎん】の延【の】べ棒【ぼう】がある!
+0	There are bars of silver here!
+53	価値【かち】ある宝石【ほうせき】
+53	Precious jewelry
+0	価値【かち】ある宝石【ほうせき】がある!
+0	There is precious jewelry here!
+54	希少【きしょう】な金貨【きんか】
+54	Rare coins
+0	たくさんの金貨【きんか】がある!
+0	There are many coins here!
+55	宝【たから】箱【ばこ】
+55	Treasure chest
+0	海賊【かいぞく】の宝【たから】箱【ばこ】がある!
+0	The pirate's treasure chest is here!
+56	金【きん】の卵【たまご】
+56	Golden eggs
+0	金【きん】の卵【たまご】で満【み】たされた大【おお】きな巣【す】がある!
+0	There is a large nest here, full of golden eggs!
+100	金【きん】の卵【たまご】の巣【す】は消【き】えた!
+100	The nest of golden eggs has vanished!
+200	魔法【まほう】をかけ終【お】えた!
+200	Done!
+57	宝石【ほうせき】の付【つ】いた矛【ほこ】
+57	Jeweled trident
+0	宝石【ほうせき】をちりばめた三【み】つ又【また】の矛【ほこ】がある!
+0	There is a jewel-encrusted trident here!
+58	明朝【みんちょう】磁器【じき】の壷【つぼ】
+58	Ming vase
+0	壊【こわ】れやすい、貴重【きちょう】な、明朝【みんちょう】磁器【じき】の壷【つぼ】がある!
+0	There is a delicate, precious, Ming vase here!
+100	壷【つぼ】をベルベットの枕【まくら】の上【うえ】にそっと置【お】いた。
+100	The vase is now resting, delicately, on a velvet pillow.
+200	床【しょう】には無【む】価値【かち】な陶器【とうき】のかけらが散【ち】らばっている。
+200	The floor is littered with worthless shards of pottery.
+300	明朝【みんちょう】磁器【じき】の壷【つぼ】は落【お】ちて壊【こわ】れた。
+300	The Ming vase drops with a delicate crash.
+59	卵【たまご】くらいのエメラルド
+59	Egg-sized emerald
+0	チドリの卵【たまご】ほどの大【おお】きさのエメラルドがある!
+0	There is an emerald here the size of a plover's egg!
 60	プラチナのピラミッド
-000	20センチほどのプラチナのピラミッドがある!
-61	輝く真珠
-000	少し離れた場所に輝く真珠ある!
+60	Platinum pyramid
+0	20センチほどのプラチナのピラミッドがある!
+0	There is a platinum pyramid here, 8 inches on a side!
+61	輝【かがや】く真珠【しんじゅ】
+61	Glistening pearl
+0	少【すこ】し離【はな】れた場所【ばしょ】に輝【かがや】く真珠【しんじゅ】ある!
+0	Off to one side lies a glistening pearl!
 62	ペルシャじゅうたん
-000	ペルシャじゅうたんが床に広げてある!
-100	竜はペルシャじゅうたんに寝そべっている!!
-63	希少な香辛料
-000	希少な香辛料がある!
-64	金の鎖
-000	山積になった金の鎖が床に置かれている!
-100	熊は金の鎖で壁につながれている!
-200	金の鎖は壁につなげられている!
+62	Persian rug
+0	ペルシャじゅうたんが床【ゆか】に広【ひろ】げてある!
+0	There is a Persian rug spread out on the floor!
+100	竜【りゅう】はペルシャじゅうたんに寝【ね】そべっている!!
+100	The dragon is sprawled out on a Persian rug!!
+63	希少【きしょう】な香辛料【こうしんりょう】
+63	Rare spices
+0	希少【きしょう】な香辛料【こうしんりょう】がある!
+0	There are rare spices here!
+64	金【きん】の鎖【くさり】
+64	Golden chain
+0	山積【さんせき】になった金【きん】の鎖【くさり】が床【ゆか】に置【お】かれている!
+0	There is a golden chain lying in a heap on the floor!
+100	熊【くま】は金【きん】の鎖【くさり】で壁【かべ】につながれている!
+100	The bear is locked to the wall with a golden chain!
+200	金【きん】の鎖【くさり】は壁【かべ】につなげられている!
+200	There is a golden chain locked to the wall!
 -1
 6
-1	どこかにある大洞窟『コロッサル・ケイブ』、数多くの金や財宝があると言
-1	われるが、生きて返った者はいないとうわさされている。
-1	洞窟では言葉が魔法の力を持つ。それはあなたの目と手になり、1つか2つの
-1	単語で命令できる。注意すべきことは、最初の5文字しか識別しないことで
-1	あり、例えば北東のつもりで "northeast" と入力した場合でも "north" と
-1	解釈される。[ 訳者注:日本語の場合は文字数の制限はない。]
-1	(困ったとき、「ヘルプ」と入力すると一般的ないくつかのヒントを表示する。
-1	どうやって冒険を終えるかなどの方法を知りたいときは「説明」と入力する
+1	どこかにある大【だい】洞窟【どうくつ】『コロッサル・ケイブ』、数多【かずおお】くの金【きん】や財宝【ざいほう】があると言【げん】
+1	われるが、生【い】きて返【かえ】った者【もの】はいないとうわさされている。
+1	洞窟【どうくつ】では言葉【ことば】が魔法【まほう】の力【ちから】を持【も】つ。それはあなたの目【もく】と手【しゅ】になり、1つか2つの
+1	単語【たんご】で命令【めいれい】できる。注意【ちゅうい】すべきことは、最初【さいしょ】の5文字【もじ】しか識別【しきべつ】しないことで
+1	あり、例【たと】えば北東【ほくとう】のつもりで "northeast" と入力【にゅうりょく】した場合【ばあい】でも "north" と
+1	解釈【かいしゃく】される。[ 訳者【やくしゃ】注【ちゅう】:日本語【にほんご】の場合【ばあい】は文字数【もじすう】の制限【せいげん】はない。]
+1	(困【こま】ったとき、「ヘルプ」と入力【にゅうりょく】すると一般【いっぱん】的【てき】ないくつかのヒントを表示【ひょうじ】する。
+1	どうやって冒険【ぼうけん】を終【お】えるかなどの方法【ほうほう】を知【し】りたいときは「説明【せつめい】」と入力【にゅうりょく】する
 1	こと。)
-1				      - - -
-1	このプログラムのオリジナルはウイリアム・クラウザーによって開発された。
-1	現在のプログラムのしかけの多くはドン・ウッズによって追加されたもので
-1	ある。このUNIX版の問題点はジム・ギオグリー(jim@rand.org)宛てに送るこ
-1	と。[ 訳者注: 日本語版の問題は maruhiro@bridge.ocn.ne.jp まで。]
-2	大きなナイフを持った小さなドワーフが道をふさいでいる。
-3	小さなドワーフが道のかどから現れ、あなたを見ると小さな斧を投げつけた。
-3	斧ははずれ、ドワーフはあなたを罵り逃げた。
-4	あなたに驚いている小さなドワーフがいる!
-5	鋭いナイフをあなたに投げつけた!
-6	それらは全て外れた!
-7	それらのうちの1つがあなたに命中した!
-8	かすかに『 Plugh 』という声が聞こえた。
-9	その方向には行けない。
-10	あなたがどちらの方向を向いているかはわからない。方角か近くのものの名
-10	前を使うこと。
-11	ここでは「入る(in)」、「出る(out)」ではわからない。方角かあなたの行き
-11	たい方向にあるものの名前を使うこと。
-12	その単語をどうすればよいかわからない。
+1
+1	このプログラムのオリジナルはウイリアム・クラウザーによって開発【かいはつ】された。
+1	現在【げんざい】のプログラムのしかけの多【おお】くはドン・ウッズによって追加【ついか】されたもので
+1	ある。このUNIX版【ばん】の問題【もんだい】点【てん】はジム・ギオグリー(jim@rand.org)宛【あ】てに送【おく】るこ
+1	と。[ 訳者【やくしゃ】注【ちゅう】: 日本語【にほんご】版【ばん】の問題【もんだい】は maruhiro@bridge.ocn.ne.jp まで。]
+1	Gabriel Wilkes（gabrielwilkes@gmail.com）は、英語版と日本語版を組み合わせて、
+1	日本語学習者を支援するために日本語の発音（フリガナ）を追加しました。
+1
+1	 Somewhere nearby is Colossal Cave, where others have found fortunes in
+1	treasure and gold, though it is rumored that some who enter are never
+1	seen again.  Magic is said to work in the cave.  I will be your eyes
+1	and hands.  Direct me with commands of 1 or 2 words.  I should warn
+1	you that I look at only the first five letters of each word, so you'll
+1	have to enter "northeast" as "ne" to distinguish it from "north".
+1	 (Should you get stuck, type "help" for some general hints.  For
+1	 information on how to end your adventure, etc., type "info".)
+1
+1	 This program was originally developed by Will Crowther.  Most of the
+1	 features of the current program were added by Don Woods.  Address
+1	 complaints about the UNIX version to Jim Gillogly (jim@rand.org).
+1	 Send issues with the Japanese translation to maruhiro@bridge.ocn.ne.jp
+1	 Gabriel Wilkes (gabrielwilkes@gmail.com) combined the English and Japanese
+1	 versions and added Japanese phonetic pronunciation (furigana) to help
+1	 Japanese learners.
+2	大【おお】きなナイフを持【も】った小【ちい】さなドワーフが道【みち】をふさいでいる。
+2	A little dwarf with a big knife blocks your way.
+3	小【ちい】さなドワーフが道【みち】のかどから現【あらわ】れ、あなたを見【み】ると小【ちい】さな斧【おの】を投【な】げつけた。
+3	斧【おの】ははずれ、ドワーフはあなたを罵【ののし】り逃【に】げた。
+3	A little dwarf just walked around a corner, saw you, threw a little
+3	 axe at you (which missed), cursed, and ran away.
+4	あなたに驚【おどろ】いている小【ちい】さなドワーフがいる!
+4	There is a threatening little dwarf in the room with you!
+5	鋭【するど】いナイフをあなたに投【な】げつけた!
+5	One sharp nasty knife is thrown at you!
+6	それらは全【すべ】て外【はず】れた!
+6	None of them hit you!
+7	それらのうちの1つがあなたに命中【めいちゅう】した!
+7	One of them gets you!
+8	かすかに『 Plugh 』という声【こえ】が聞【き】こえた。
+8	 A hollow voice says "Plugh".
+9	その方向【ほうこう】には行【い】けない。
+9	There is no way to go that direction.
+10	あなたがどちらの方向【ほうこう】を向【む】いているかはわからない。方角【ほうがく】か近【ちか】くのものの名【めい】
+10	前【まえ】を使【つか】うこと。
+10	I am unsure how you are facing.  Use compass points or nearby objects.
+11	ここでは「入【はい】る(in)」、「出【で】る(out)」ではわからない。方角【ほうがく】かあなたの行【い】き
+11	たい方向【ほうこう】にあるものの名前【なまえ】を使【つか】うこと。
+11	I don't know in from out here.  Use compass points or name something
+11	in the general direction you want to go.
+12	その単語【たんご】をどうすればよいかわからない。
+12	I don't know how to apply that word here.
 13	わからない!
-14	私はゲームである。もっとわかりやすく説明して欲しい。
-15	残念ながらこれ以上詳しく説明することはできない。もう一度長い文章をく
+13	I don't understand that!
+14	私【わたし】はゲームである。もっとわかりやすく説明【せつめい】して欲【ほ】しい。
+14	I'm game.  Would you care to explain how?
+15	残念【ざんねん】ながらこれ以上【いじょう】詳【くわ】しく説明【せつめい】することはできない。もう一度【いちど】長【なが】い文章【ぶんしょう】をく
 15	りかえす。
-16	ここはとても暗い。このまま進むと穴に落ちてしまいそうだ。
-17	westをwと省略することもできる。
-18	小鳥を捕まえようとしているのか?
-19	小鳥は怯えていて、どのようにしても捕まえることができない。後でもう一
-19	度試したほうが良いかもしれない。
-20	ヘビを何とかしようとしているのか?
-21	ヘビを殺す、追い払う、避けるなどのことはできない。何とか通るべき道だ
-21	が、あなたはそれをするためのものを現在持っていない。
-22	本当に終了してよいか?
-23	穴に落ち、全身の骨が折れた!
-24	すでに持っている!
-25	ご冗談を!
-26	小鳥はあなたが入ってきたとき怯えていなかった。しかし、あなたが近づく
-26	と小鳥は暴れだし、捕らえることができなかった。
-27	小鳥を捕まえたが、運ぶことができない。
-28	開けられるものがない!
-29	それを持っていない!
-30	小鳥が緑色のヘビを攻撃すると、ヘビは驚き追い払われた。
-31	鍵を持っていない!
-32	それには錠がない。
-33	それで錠の開閉はできない。
-34	既に閉じている。
-35	鉄格子は閉じた。
-36	鉄格子は開いた。
-37	既に開いている。
-38	光源がない。
-39	明かりがついた。
-40	明かりが消えた。
-41	鎖を外すために熊の前を通り過ぎるのは無理だ。そのようなことはしないほ
+15	Sorry, but I am not allowed to give more detail.  I will repeat the
+15	long description of your location.
+16	ここはとても暗【くら】い。このまま進【すす】むと穴【あな】に落【お】ちてしまいそうだ。
+16	It is now pitch dark.  If you proceed you will likely fall into a pit.
+17	westをwと省略【しょうりゃく】することもできる。
+17	If you prefer, simply type w rather than west.
+18	小鳥【ことり】を捕【と】まえようとしているのか?
+18	Are you trying to catch the bird?
+19	小鳥【ことり】は怯【おび】えていて、どのようにしても捕【つか】まえることができない。後【あと】でもう一【いち】
+19	度【ど】試【ため】したほうが良【よ】いかもしれない。
+19	The bird is frightened right now and you cannot catch it no matter
+19	what you try.  Perhaps you might try later.
+20	ヘビを何【なん】とかしようとしているのか?
+20	Are you trying to somehow deal with the snake?
+21	ヘビを殺【ころ】す、追【お】い払【はら】う、避【さ】けるなどのことはできない。何【なん】とか通【とお】るべき道【みち】だ
+21	が、あなたはそれをするためのものを現在【げんざい】持【も】っていない。
+21	You can't kill the snake, or drive it away, or avoid it, or anything
+21	like that.  There is a way to get by, but you don't have the necessary
+21	resources right now.
+22	本当【ほんとう】に終了【しゅうりょう】してよいか?
+22	Do you really want to quit now?
+23	穴【あな】に落【お】ち、全身【ぜんしん】の骨【ほね】が折【お】れた!
+23	You fell into a pit and broke every bone in your body!
+24	すでに持【も】っている!
+24	You are already carrying it!
+25	ご冗談【じょうだん】を!
+25	You can't be serious!
+26	小鳥【ことり】はあなたが入【はい】ってきたとき怯【おび】えていなかった。しかし、あなたが近【ちか】づく
+26	と小鳥【ことり】は暴【あば】れだし、捕【と】らえることができなかった。
+26	The bird was unafraid when you entered, but as you approach it becomes
+26	disturbed and you cannot catch it.
+27	小鳥【ことり】を捕【つか】まえたが、運【はこ】ぶことができない。
+27	You can catch the bird, but you cannot carry it.
+28	開【あ】けられるものがない!
+28	There is nothing here with a lock!
+29	それを持【も】っていない!
+29	You aren't carrying it!
+30	小鳥【ことり】が緑色【りょくしょく】のヘビを攻撃【こうげき】すると、ヘビは驚【おどろ】き追【お】い払【はら】われた。
+30	The little bird attacks the green snake, and in an astounding flurry
+30	drives the snake away.
+31	鍵【かぎ】を持【も】っていない!
+31	You have no keys!
+32	それには錠【じょう】がない。
+32	It has no lock.
+33	それで錠【じょう】の開閉【かいへい】はできない。
+33	I don't know how to lock or unlock such a thing.
+34	既【すで】に閉【と】じている。
+34	It was already locked.
+35	鉄格子【てつごうし】は閉【と】じた。
+35	The grate is now locked.
+36	鉄格子【てつごうし】は開【ひら】いた。
+36	The grate is now unlocked.
+37	既【すで】に開【ひら】いている。
+37	It was already unlocked.
+38	光源【こうげん】がない。
+38	You have no source of light.
+39	明【あ】かりがついた。
+39	Your lamp is now on.
+40	明【あ】かりが消【き】えた。
+40	Your lamp is now off.
+41	鎖【くさり】を外【はず】すために熊【くま】の前【まえ】を通【とお】り過【す】ぎるのは無理【むり】だ。そのようなことはしないほ
 41	うがよい。
-42	何も起こらない。
+41	There is no way to get past the bear to unlock the chain, which is
+41	probably just as well.
+42	何【なに】も起【お】こらない。
+42	Nothing happens.
 43	どこに?
-44	攻撃するものは何もない。
-45	小鳥は死んだ。死体は見えなくなった。
-46	ヘビを攻撃するのは危険で無意味だ。
-47	小さなドワーフを倒した。
-48	ドワーフを攻撃したが、巧みにかわされた。
-49	どうやって? 素手で?
-50	良い方法だ。しかしそれは古く、もはや効果のない魔法だ。
-51	私は場所、行動、物体のことを知っている。私の知っている単語の多くは、
-51	あなたのいる場所の状況を表すためや、移動のためものである。移動には、
-51	森(forest)、建物(building)、下流(downstream)、入る(enter)、東(east)、
-51	西(west)、北(north)、南(south)、上(up)、そして下(down)のような単語を
-51	用いることができる。
-51	また、いくつかの特別な物、例えば洞窟に隠された黒い杖などを私は知って
-51	いる。これらはいくつかの動詞で扱うことができる。通常、動詞と物の2つを
-51	入力する必要があるが、動詞だけで物が類推されることもある。また、いく
-51	つかの物は動詞が類推される。特に、"inventory"は "take inventory" を示
-51	す。これはあなたが今何を持っているかを表示する。[ 訳者注:日本語の場合
-51	は「持ち物」。] 物には副作用があることがある。例えば、杖は小鳥を脅え
+43	Where?
+44	攻撃【こうげき】するものは何【なに】もない。
+44	There is nothing here to attack.
+45	小鳥【ことり】は死【し】んだ。死体【したい】は見【み】えなくなった。
+45	The little bird is now dead.  Its body disappears.
+46	ヘビを攻撃【こうげき】するのは危険【きけん】で無意味【むいみ】だ。
+46	Attacking the snake both doesn't work and is very dangerous.
+47	小【ちい】さなドワーフを倒【たお】した。
+47	You killed a little dwarf.
+48	ドワーフを攻撃【こうげき】したが、巧【たく】みにかわされた。
+48	You attack a little dwarf, but he dodges out of the way.
+49	どうやって? 素手【すで】で?
+49	With what?  Your bare hands?
+50	良【よ】い方法【ほうほう】だ。しかしそれは古【ふる】く、もはや効果【こうか】のない魔法【まほう】だ。
+50	Good try, but that is an old worn-out magic word.
+51	私【わたし】は場所【ばしょ】、行動【こうどう】、物体【ぶったい】のことを知【し】っている。私【わたし】の知【し】っている単語【たんご】の多【おお】くは、
+51	あなたのいる場所【ばしょ】の状況【じょうきょう】を表【あらわ】すためや、移動【いどう】のためものである。移動【いどう】には、
+51	森【もり】(forest)、建物【たてもの】(building)、下流【かりゅう】(downstream)、入【はい】る(enter)、東【ひがし】(east)、
+51	西【にし】(west)、北【きた】(north)、南【みなみ】(south)、上【じょう】(up)、そして下【しも】(down)のような単語【たんご】を
+51	用【もち】いることができる。
+51	また、いくつかの特別【とくべつ】な物【もの】、例【たと】えば洞窟【どうくつ】に隠【かく】された黒【くろ】い杖【つえ】などを私【わたし】は知【し】って
+51	いる。これらはいくつかの動詞【どうし】で扱【あつか】うことができる。通常【つうじょう】、動詞【どうし】と物【もの】の2つを
+51	入力【にゅうりょく】する必要【ひつよう】があるが、動詞【どうし】だけで物【もの】が類推【るいすい】されることもある。また、いく
+51	つかの物【もの】は動詞【どうし】が類推【るいすい】される。特【とく】に、"inventory"は "take inventory" を示
+51	す。これはあなたが今【いま】何【なに】を持【も】っているかを表示【ひょうじ】する。[ 訳者【やくしゃ】注【ちゅう】:日本語【にほんご】の場合【ばあい】
+51	は「持【も】ち物【もの】」。] 物【ぶつ】には副作用【ふくさよう】があることがある。例【たと】えば、杖【つえ】は小鳥【ことり】を脅【おび】え
 51	させる。
-51	通常、冒険者たちは移動に困り、2、3の単語を試さなければならない。通常、
-51	冒険者たちは物の使い方について無駄な努力をし、物(と私!)の能力の限界に
-51	挑戦し、徹底的に様々なことを試さなければならない。
-51	すばやくゲームを進めるために、あなたは遠くから1つの単語で移動できる。
-51	例えば、「建物(building)」は森で迷っていない限り地上のどこからでも小
-51	屋に移動することができる。また、洞窟には曲がりくねっていて、あなたが
-51	北から部屋を出ても、次の部屋に南から入るとは限らない。
-51	幸運を!
-52	それは外れた!
-53	それはあなたに命中した!
+51	通常【つうじょう】、冒険【ぼうけん】者【しゃ】たちは移動【いどう】に困【こま】り、2、3の単語【たんご】を試【ため】さなければならない。通常【つうじょう】、
+51	冒険【ぼうけん】者【しゃ】たちは物【もの】の使【つか】い方【かた】について無駄【むだ】な努力【どりょく】をし、物【もの】(と私【わたし】!)の能力【のうりょく】の限界【げんかい】に
+51	挑戦【ちょうせん】し、徹底的【てっていてき】に様々【さまざま】なことを試【ため】さなければならない。
+51	すばやくゲームを進【すす】めるために、あなたは遠【とお】くから1つの単語【たんご】で移動【いどう】できる。
+51	例【たと】えば、「建物【たてもの】(building)」は森【もり】で迷【まよ】っていない限【かぎ】り地上【ちじょう】のどこからでも小【しょう】
+51	屋【や】に移動【いどう】することができる。また、洞窟【どうくつ】には曲【ま】がりくねっていて、あなたが
+51	北【きた】から部屋【へや】を出【で】ても、次【つぎ】の部屋【へや】に南【みなみ】から入【はい】るとは限【かぎ】らない。
+51	幸運【こううん】を!
+51	I know of places, actions, and things.  Most of my vocabulary
+51	describes places and is used to move you there.  To move, try words
+51	like forest, building, downstream, enter, east, west, north, south,
+51	up, or down.  I know about a few special objects, like a black rod
+51	hidden in the cave.  These objects can be manipulated using some of
+51	the action words that I know.  Usually you will need to give both the
+51	object and action words (in either order), but sometimes I can infer
+51	the object from the verb alone.  Some objects also imply verbs; in
+51	particular, "inventory" implies "take inventory", which causes me to
+51	give you a list of what you're carrying.  The objects have side
+51	effects; for instance, the rod scares the bird.  Usually people having
+51	trouble moving just need to try a few more words.  Usually people
+51	trying unsuccessfully to manipulate an object are attempting something
+51	beyond their (or my!) capabilities and should try a completely
+51	different tack.  To speed the game you can sometimes move long
+51	distances with a single word.  For example, "building" usually gets
+51	you to the building from anywhere above ground except when lost in the
+51	forest.  Also, note that cave passages turn a lot, and that leaving a
+51	room to the north does not guarantee entering the next from the south.
+51	Good luck!
+52	それは外【はず】れた!
+52	It misses!
+53	それはあなたに命中【めいちゅう】した!
+53	It gets you!
 54	OK
-55	鍵の錠を外すことはできない。
-56	いくつかの小さな穴をはいまわり、元の通路に戻ってきた。
-57	洞窟がどこにあるかわからない。しかし、このあたりに長い川はない。川下
-57	に行ってみるべきだ。
-58	それをするもっと詳しい情報が必要だ。
-59	あなたの見えるものや、扱うことのできるもののみ伝えられる。遠くにある
-59	ものは伝えられない。
-60	その単語はわからない。
-61	何だって?
-62	洞窟に入ろうとしているのか?
-63	鉄格子はとても固く、頑丈な鋼鉄の錠がある。鍵なしで入ることはできず、
-63	また近くに鍵はなさそうだ。どこか別の場所で鍵を探したほうがよいだろう。
-64	この森の木は大きなカシとカエデであり、所々に松やエゾマツがある。まば
-64	らに成長中のカバやトネリコの若木があり、地面には様々な種類の草が生え
-64	ている。この時期、生い茂る木の葉によって視界はとても悪いが、エゾマツ
-64	とベリーのあたりを回り道すれば簡単に移動できる。
-65	『アドベンチャー』へようこそ!! 説明が必要ですか?
-66	シャベルなしで穴を掘るのは現実的ではない。さらにシャベルで穴を掘って
-66	進むことも不可能だ。
-67	爆破するにはダイナマイトが必要だ。
-68	私もあなたと同じくらい混乱している。
-69	白い霧は小さな水の粒であり、洞窟内で時々見られる。それはしばしば穴の
-69	深いところに水があることを示している。
-70	あなたの足は濡れた。
-71	私なら食欲がわかない。
+54	OK
+55	鍵【かぎ】の錠【じょう】を外【はず】すことはできない。
+55	You can't unlock the keys.
+56	いくつかの小【ちい】さな穴【あな】をはいまわり、元【もと】の通路【つうろ】に戻【もど】ってきた。
+56	You have crawled around in some little holes and wound up back in the
+56	main passage.
+57	洞窟【どうくつ】がどこにあるかわからない。しかし、このあたりに長【なが】い川【かわ】はない。川下【かわしも】
+57	に行【い】ってみるべきだ。
+57	I don't know where the cave is, but hereabouts no stream can run on
+57	the surface for long.  I would try the stream.
+58	それをするもっと詳【くわ】しい情報【じょうほう】が必要【ひつよう】だ。
+58	I need more detailed instructions to do that.
+59	あなたの見【み】えるものや、扱【あつか】うことのできるもののみ伝【つた】えられる。遠【とお】くにある
+59	ものは伝【つた】えられない。
+59	I can only tell you what you see as you move about and manipulate
+59	things.  I cannot tell you where remote things are.
+60	その単語【たんご】はわからない。
+60	I don't know that word.
+61	何【なに】だって?
+61	What?
+62	洞窟【どうくつ】に入【にゅう】ろうとしているのか?
+62	Are you trying to get into the cave?
+63	鉄格子【てつごうし】はとても固【かた】く、頑丈【がんじょう】な鋼鉄【こうてつ】の錠【じょう】がある。鍵【かぎ】なしで入【はい】ることはできず、
+63	また近【ちか】くに鍵【かぎ】はなさそうだ。どこか別【べつ】の場所【ばしょ】で鍵【かぎ】を探【さが】したほうがよいだろう。
+63	The grate is very solid and has a hardened steel lock.  You cannot
+63	enter without a key, and there are no keys nearby.  I would recommend
+63	looking elsewhere for the keys.
+64	この森【もり】の木【き】は大【おお】きなカシとカエデであり、所々【ところどころ】に松【まつ】やエゾマツがある。まば
+64	らに成長【せいちょう】中【ちゅう】のカバやトネリコの若木【わかぎ】があり、地面【じめん】には様々【さまざま】な種類【しゅるい】の草【くさ】が生【は】え
+64	ている。この時期【じき】、生【お】い茂【しげ】る木【こ】の葉【は】によって視界【しかい】はとても悪【わる】いが、エゾマツ
+64	とベリーのあたりを回【まわ】り道【みち】すれば簡単【かんたん】に移動【いどう】できる。
+64	The trees of the forest are large hardwood oak and maple, with an
+64	occasional grove of pine or spruce.  There is quite a bit of under-
+64	growth, largely birch and ash saplings plus nondescript bushes of
+64	various sorts.  This time of year visibility is quite restricted by
+64	all the leaves, but travel is quite easy if you detour around the
+64	spruce and berry bushes.
+65	『アドベンチャー』へようこそ!! 説明【せつめい】が必要【ひつよう】ですか?
+65	Welcome to Adventure!!  Would you like instructions?
+66	シャベルなしで穴【あな】を掘【ほ】るのは現実【げんじつ】的【てき】ではない。さらにシャベルで穴【あな】を掘【ほ】って
+66	進【すす】むことも不可能【ふかのう】だ。
+66	Digging without a shovel is quite impractical.  Even with a shovel
+66	progress is unlikely.
+67	爆破【ばくは】するにはダイナマイトが必要【ひつよう】だ。
+67	Blasting requires dynamite.
+68	私【わたし】もあなたと同【おな】じくらい混乱【こんらん】している。
+68	I'm as confused as you are.
+69	白【しろ】い霧【きり】は小【ちい】さな水【みず】の粒【つぶ】であり、洞窟【どうくつ】内【ない】で時々【ときどき】見【み】られる。それはしばしば穴【あな】の
+69	深【ふか】いところに水【みず】があることを示【しめ】している。
+69	Mist is a white vapor, usually water, seen from time to time in
+69	caverns.  It can be found anywhere but is frequently a sign of a deep
+69	pit leading down to water.
+70	あなたの足【あし】は濡【ぬ】れた。
+70	Your feet are now wet.
+71	私【わたし】なら食欲【しょくよく】がわかない。
+71	I think I just lost my appetite.
 72	どうも。これはうまい!
-73	小川の水を飲んだ。水はミネラルが多いようだったが、とても冷たく、まず
+72	Thank you, it was delicious!
+73	小川【おがわ】の水【みず】を飲【の】んだ。水【みず】はミネラルが多【おお】いようだったが、とても冷【つめ】たく、まず
 73	くはなかった。
-74	ビンの水は空になった。
-75	電灯をこすることはまったく無意味である。やはり何も起こらなかった。
-76	おもしろい。そうするとは思わなかった。
-77	ビンの水はこぼれ空になった。
-78	それを注ぐことはできない。
-79	注意!
+73	You have taken a drink from the stream.  The water tastes strongly of
+73	minerals, but is not unpleasant.  It is extremely cold.
+74	ビンの水【みず】は空【そら】になった。
+74	The bottle of water is now empty.
+75	電灯【でんとう】をこすることはまったく無意味【むいみ】である。やはり何【なに】も起【お】こらなかった。
+75	Rubbing the electric lamp is not particularly rewarding.  Anyway,
+75	nothing exciting happens.
+76	おもしろい。そうするとは思【おも】わなかった。
+76	Peculiar.  Nothing unexpected happens.
+77	ビンの水【みず】はこぼれ空【そら】になった。
+77	Your bottle is empty and the ground is wet.
+78	それを注【そそ】ぐことはできない。
+78	You can't pour that.
+79	注意【ちゅうい】!
+79	Watch it!
 80	どちらへ?
-81	ああ、あなたは死んでしまったようだ。私はあなたを手伝うことができたか
-81	もしれないが、今となっては後の祭りだ。私にあなたを生き返らせることを
-81	望むか?
-82	よろしい。でも、どうなっても私に文句を言わないように…
-82	                    --- プシュー!! ---
-82	あなたはオレンジ色の煙に包まれた。激しい咳で苦しみながら、あなたは煙
-82	の中からあらわれた。すると…
-83	愚かなことにあなたは同じ過ちを繰り返した。私にはどれくらい続けられる
-83	かわからないが、再び私にあなたを生き返らせることを望むか?
-84	わかった。オレンジ色の煙をどこに置いたかな?…  >プシュー!<
-84	濃いオレンジ色の煙で何も見えなくなった。
-85	あなたはまたやってしまった! 私のオレンジ色の煙もなくなった! オレンジ
-85	色の煙がなくなった私には、うまく生き返ることは期待できない。そうだろ
+80	Which way?
+81	ああ、あなたは死【し】んでしまったようだ。私【わたし】はあなたを手伝【てつだ】うことができたか
+81	もしれないが、今【いま】となっては後【あと】の祭【まつ】りだ。私【わたし】にあなたを生【い】き返【かえ】らせることを
+81	望【のぞ】むか?
+81	Oh dear, you seem to have gotten yourself killed.  I might be able to
+81	help you out, but I've never really done this before.  Do you want me
+81	to try to reincarnate you?
+82	よろしい。でも、どうなっても私【わたし】に文句【もんく】を言【い】わないように…
+82
+82	あなたはオレンジ色【しょく】の煙【けむり】に包【つつ】まれた。激【はげ】しい咳【せき】で苦【くる】しみながら、あなたは煙【けむり】
+82	の中【なか】からあらわれた。すると…
+82	All right.  But don't blame me if something goes wr......
+82
+82	You are engulfed in a cloud of orange smoke.  Coughing and gasping,
+82	you emerge from the smoke and find....
+83	愚【おろ】かなことにあなたは同【おな】じ過【あやま】ちを繰【く】り返【かえ】した。私【わたし】にはどれくらい続【つづ】けられる
+83	かわからないが、再【ふたた】び私【わたし】にあなたを生【い】き返【かえ】らせることを望【のぞ】むか?
+83	You clumsy oaf, you've done it again!  I don't know how long I can
+83	keep this up.  Do you want me to try reincarnating you again?
+84	わかった。オレンジ色【しょく】の煙【けむり】をどこに置【お】いたかな?…  >プシュー!<
+84	濃【こ】いオレンジ色【しょく】の煙【けむり】で何【なに】も見【み】えなくなった。
+84	Okay, now where did I put my orange smoke?....  >poof!<
+84	Everything disappears in a dense cloud of orange smoke.
+85	あなたはまたやってしまった! 私【わたし】のオレンジ色【しょく】の煙【けむり】もなくなった! オレンジ
+85	色【しょく】の煙【けむり】がなくなった私【わたし】には、うまく生【い】き返【かえ】ることは期待【きたい】できない。そうだろ
 85	う?
-86	うむ、それだけ賢ければ自分でどうにかしなさい。それでは!
+85	Now you've really done it!  I'm out of orange smoke!  You don't expect
+85	me to do a decent reincarnation without any orange smoke, do you?
+86	うむ、それだけ賢【かしこ】ければ自分【じぶん】でどうにかしなさい。それでは!
+86	Okay, if you're so smart, do it yourself!  I'm leaving!
 90	>>> Messages 81 thru 90 are reserved for "obituaries". <<<
-91	残念ながら、どうやってたどり着いたかもうわからない。
-92	これ以上持ち運ぶことができない。まず何かをおくこと。
-93	閉じた鉄格子を通ることはできない!
-94	ここがあなたの望む場所だと思う。
-95	5センチの隙間に入ることはできない!
-96	恐れながら、跳び越えるよりも橋を渡ることをすすめる。
-97	地割れを渡る方法はない。
-98	何も持っていない。
-99	次のものを持っている:
-100	小鳥は腹を空かせてはいない。(フィヨルドが恋しいだけだ。)さらに、あな
-100	たは鳥の餌など持っていない。
-101	ヘビは小鳥を飲み込んだ。
-102	ここには食べさせるものは(恐らくあなたを除いて)なにもない。
-103	馬鹿な。ドワーフは石炭しか食べない! 彼は *本当に* 怒った!!
-104	持ち運ぶものは何もない。
-105	ビンは既に満たされている。
-106	ビンを満たすものは何もない。
-107	ビンは水で満たされた。
-108	ビンは油で満たされた。
-109	それで汲むことはできない。
+90	>>> Messages 81 thru 90 are reserved for "obituaries". <<<
+91	残念【ざんねん】ながら、どうやってたどり着【つ】いたかもうわからない。
+91	Sorry, but I no longer seem to remember how it was you got here.
+92	これ以上【いじょう】持【も】ち運【はこ】ぶことができない。まず何【なに】かをおくこと。
+92	You can't carry anything more.  You'll have to drop something first.
+93	閉【と】じた鉄格子【てつごうし】を通【とお】ることはできない!
+93	You can't go through a locked steel grate!
+94	ここがあなたの望【のぞ】む場所【ばしょ】だと思【おも】う。
+94	I believe what you want is right here with you.
+95	5センチの隙間【すきま】に入【はい】ることはできない!
+95	You don't fit through a two-inch slit!
+96	恐【おそ】れながら、跳【と】び越【こ】えるよりも橋【はし】を渡【わた】ることをすすめる。
+96	I respectfully suggest you go across the bridge instead of jumping.
+97	地割【じわ】れを渡【わた】る方法【ほうほう】はない。
+97	There is no way across the fissure.
+98	何【なに】も持【も】っていない。
+98	You're not carrying anything.
+99	次【じ】のものを持【も】っている:
+99	You are currently holding the following:
+100	小鳥【ことり】は腹【はら】を空【す】かせてはいない。(フィヨルドが恋【こい】しいだけだ。)さらに、あな
+100	たは鳥【とり】の餌【えさ】など持【も】っていない。
+100	It's not hungry (it's merely pinin' for the fjords).  Besides, you
+100	have no bird seed.
+101	ヘビは小鳥【ことり】を飲【の】み込【こ】んだ。
+101	The snake has now devoured your bird.
+102	ここには食【た】べさせるものは(恐【おそ】らくあなたを除【のぞ】いて)なにもない。
+102	There's nothing here it wants to eat (except perhaps you).
+103	馬鹿【ばか】な。ドワーフは石炭【せきたん】しか食【た】べない! 彼【かれ】は *本当【ほんとう】に* 怒【おこ】った!!
+103	You fool, dwarves eat only coal!  Now you've made him *really* mad!!
+104	持【も】ち運【はこ】ぶものは何【なに】もない。
+104	You have nothing in which to carry it.
+105	ビンは既【すで】に満【み】たされている。
+105	Your bottle is already full.
+106	ビンを満【み】たすものは何【なに】もない。
+106	There is nothing here with which to fill the bottle.
+107	ビンは水【みず】で満【み】たされた。
+107	Your bottle is now full of water.
+108	ビンは油【あぶら】で満【み】たされた。
+108	Your bottle is now full of oil.
+109	それで汲【く】むことはできない。
+109	You can't fill that.
 110	とんでもない!
-111	ドアは完全に錆ついていて、開けることができなかった。
-112	植物は怒り、油を葉から振り落とし尋ねた。「水?」
-113	ちょうつがいは完全に錆びて、少しも動かなくなった。
-114	油はちょうつがいの錆を落とし、扉は動くようになった。何とか開きそうだ。
-115	植物はとても根を深くはっているようで、引き抜くことができなかった。
-116	ドワーフのナイフは洞窟の壁に当たり、どこかへいってしまったようだ。
-117	持ち物のせいでトンネルを通ることができないようだ。持ち物を調べて何か
-117	置いたほうがよい。
-118	1.5メートルのハマグリを持ったままでは狭い通路を通れない!
-119	1.5メートルのカキを持ったままでは狭い通路を通れない!
-120	ハマグリを開く前に置くことをすすめる。>ギュ!<
-121	カキを開く前に置くことをすすめる。>グイ!<
-122	ハマグリを開けられるほど固いものを持っていない。
-123	カキを開けられるほど固いものを持っていない。
-124	輝く真珠がハマグリから落ちて、どこかに転がった。おっと、実際にはカキ
-124	だった。(2枚貝のことはよく知らない。) どちらにせよ、貝はすぐに閉じた。
-125	カキはきしみながら開いたが、中にはカキの身しかなかった。カキはすぐに
-125	元のように閉じた。
-126	小さな穴をはい回ったが、最近の落盤で塞がれていることがわかった。あな
-126	たは元の通路に戻った。
-127	あなたの後ろの暗闇から、何かが向かってくるかすかな音がする。
-128	背後の暗闇から、ヒゲをはやした海賊が飛びかかってきた! 彼は満足げに笑
-128	った。「ハッハッ! いただいた物は迷路の奥の宝箱に隠すとするか! 」
-128	彼はあなたから財宝を奪い取り、闇の中に消え去った。
-129	憂うつな声が洞窟内にこだました。「洞窟はまもなく閉じられます。全ての
-129	冒険者はメインオフィスを通って脱出してください。」
-130	録音された、不可思議な、死に瀕したような声のアナウンスが聞こえた。
-130	「この出口は閉鎖されました。メインオフィスを通って脱出して下さい。」
-131	あなたは死んでいるように見える。ああ、どちらにせよ最期のときが近づい
-131	ている。もう終わりにしよう。
-132	憂うつな声が聞こえた。「洞窟は閉じました。」声はかすかになり、目が見
-132	えなくなるような光があたりを覆った (そしてわずかなオレンジ色の煙も)…
-132	あなたは再び目を開け、あたりを見渡した。すると…
-133	大爆発が起こり、5メートルの大穴が遠くの壁に開き、ドワーフ達が岩の下敷
-133	きになった。穴に入ると、そこはメインオフィスだった。
-133	喝采をあげるエルフの音楽隊が、あなたを勝利者として夕暮れの地上へと導
+110	Don't be ridiculous!
+111	ドアは完全【かんぜん】に錆【さび】ついていて、開【あ】けることができなかった。
+111	The door is extremely rusty and refuses to open.
+112	植物【しょくぶつ】は怒【おこ】り、油【あぶら】を葉【は】から振【ふ】り落【お】とし尋【たず】ねた。「水【みず】?」
+112	The plant indignantly shakes the oil off its leaves and asks, "water?"
+113	ちょうつがいは完全【かんぜん】に錆【さ】びて、少【すこ】しも動【うご】かなくなった。
+113	The hinges are quite thoroughly rusted now and won't budge.
+114	油【あぶら】はちょうつがいの錆【さび】を落【お】とし、扉【とびら】は動【うご】くようになった。何【なん】とか開【ひら】きそうだ。
+114	The oil has freed up the hinges so that the door will now move,
+114	although it requires some effort.
+115	植物【しょくぶつ】はとても根【ね】を深【ふか】くはっているようで、引【ひ】き抜【ぬ】くことができなかった。
+115	The plant has exceptionally deep roots and cannot be pulled free.
+116	ドワーフのナイフは洞窟【どうくつ】の壁【かべ】に当【あ】たり、どこかへいってしまったようだ。
+116	The dwarves' knives vanish as they strike the walls of the cave.
+117	持【も】ち物【もの】のせいでトンネルを通【とお】ることができないようだ。持【も】ち物【もの】を調【しら】べて何【なに】か
+117	置【お】いたほうがよい。
+117	Something you're carrying won't fit through the tunnel with you.
+117	You'd best take inventory and drop something.
+118	1.5メートルのハマグリを持【も】ったままでは狭【せま】い通路【つうろ】を通【とお】れない!
+118	You can't fit this five-foot clam through that little passage!
+119	1.5メートルのカキを持【も】ったままでは狭【せま】い通路【つうろ】を通【とお】れない!
+119	You can't fit this five-foot oyster through that little passage!
+120	ハマグリを開【ひら】く前【まえ】に置【お】くことをすすめる。>ギュ!<
+120	I advise you to put down the clam before opening it.  >strain!<
+121	カキを開【ひら】く前【まえ】に置【お】くことをすすめる。>グイ!<
+121	I advise you to put down the oyster before opening it.  >wrench!<
+122	ハマグリを開【あ】けられるほど固【かた】いものを持【も】っていない。
+122	You don't have anything strong enough to open the clam.
+123	カキを開【あ】けられるほど固【かた】いものを持【も】っていない。
+123	You don't have anything strong enough to open the oyster.
+124	輝【かがや】く真珠【しんじゅ】がハマグリから落【お】ちて、どこかに転【ころ】がった。おっと、実際【じっさい】にはカキ
+124	だった。(2枚【まい】貝【かい】のことはよく知【し】らない。) どちらにせよ、貝【かい】はすぐに閉【と】じた。
+124	A glistening pearl falls out of the clam and rolls away.  Goodness,
+124	this must really be an oyster.  (I never was very good at identifying
+124	bivalves.)  Whatever it is, it has now snapped shut again.
+125	カキはきしみながら開【ひら】いたが、中【なか】にはカキの身【み】しかなかった。カキはすぐに
+125	元【げん】のように閉【と】じた。
+125	The oyster creaks open, revealing nothing but oyster inside.  It
+125	promptly snaps shut again.
+126	小【ちい】さな穴【あな】をはい回【まわ】ったが、最近【さいきん】の落盤【らくばん】で塞【ふさ】がれていることがわかった。あな
+126	たは元【もと】の通路【つうろ】に戻【もど】った。
+126	You have crawled around in some little holes and found your way
+126	blocked by a recent cave-in.  You are now back in the main passage.
+127	あなたの後【うし】ろの暗闇【くらやみ】から、何【なに】かが向【む】かってくるかすかな音【おと】がする。
+127	There are faint rustling noises from the darkness behind you.
+128	背後【はいご】の暗闇【くらやみ】から、ヒゲをはやした海賊【かいぞく】が飛【と】びかかってきた! 彼【かれ】は満足【まんぞく】げに笑【えみ】
+128	った。「ハッハッ! いただいた物【もの】は迷路【めいろ】の奥【おく】の宝【たから】箱【ばこ】に隠【かく】すとするか! 」
+128	彼【かれ】はあなたから財宝【ざいほう】を奪【うば】い取【と】り、闇【やみ】の中【なか】に消【き】え去【さ】った。
+128	Out from the shadows behind you pounces a bearded pirate!  "Har, har,"
+128	he chortles, "I'll just take all this booty and hide it away with me
+128	chest deep in the maze!"  He snatches your treasure and vanishes into
+128	the gloom.
+129	憂【ゆう】うつな声【こえ】が洞窟【どうくつ】内【ない】にこだました。「洞窟【どうくつ】はまもなく閉【と】じられます。全【すべ】ての
+129	冒険【ぼうけん】者【しゃ】はメインオフィスを通【とお】って脱出【だっしゅつ】してください。」
+129	A sepulchral voice reverberating through the cave, says, "Cave closing
+129	soon.  All adventurers exit immediately through Main Office."
+130	録音【ろくおん】された、不可思議【ふかしぎ】な、死【し】に瀕【ひん】したような声【こえ】のアナウンスが聞【き】こえた。
+130	「この出口【でぐち】は閉鎖【へいさ】されました。メインオフィスを通【とお】って脱出【だっしゅつ】して下【くだ】さい。」
+130	A mysterious recorded voice groans into life and announces:
+130	  "This exit is closed.  Please leave via Main Office."
+131	あなたは死【し】んでいるように見【み】える。ああ、どちらにせよ最期【さいご】のときが近【ちか】づい
+131	ている。もう終【お】わりにしよう。
+131	It looks as though you're dead.  Well, seeing as how it's so close to
+131	closing time anyway, I think we'll just call it a day.
+132	憂【ゆう】うつな声【こえ】が聞【き】こえた。「洞窟【どうくつ】は閉【と】じました。」声【こえ】はかすかになり、目【め】が見【み】
+132	えなくなるような光【ひかり】があたりを覆【おお】った (そしてわずかなオレンジ色【しょく】の煙【けむり】も)…
+132	あなたは再【ふたた】び目【め】を開【あ】け、あたりを見渡【みわた】した。すると…
+132	The sepulchral voice intones, "The cave is now closed."  As the echoes
+132	fade, there is a blinding flash of light (and a small puff of orange
+132	smoke). . . .	As your eyes refocus, you look around and find...
+133	大【だい】爆発【ばくはつ】が起【お】こり、5メートルの大穴【おおあな】が遠【とお】くの壁【かべ】に開【ひら】き、ドワーフ達【たち】が岩【いわ】の下敷【したじき】
+133	きになった。穴【あな】に入【はい】ると、そこはメインオフィスだった。
+133	喝采【かっさい】をあげるエルフの音楽【おんがく】隊【たい】が、あなたを勝利【しょうり】者【しゃ】として夕暮【ゆうぐ】れの地上【ちじょう】へと導【しるべ】
 133	いた。
-134	大爆発が起こり、5メートルの大穴が遠くの壁に空き、たくさんのヘビが岩の
-134	下敷きになった。溶岩が穴から流れ出し、全てを破壊しながら押し寄せ、つ
-134	いにあなを飲み込んだ!
-135	大爆発が起こり、あなたは突然部屋の向こう側の壁に叩きつけられた。
-136	騒ぎでドワーフ達が目をさました。恐怖に脅えた数人の小さなドワーフがあ
-136	なたの前にいる! 彼らはあなたに向かってナイフを投げつけ、それらは全て
-136	命中した!
-137	ああ、あわれで不幸な小鳥をはなしてやろう。
-138	恐れながら、あなたの欲しい物はこのあたりにある。
-139	"stop"という単語は知らない。あきらめるときは"quit"を使うこと。
-140	ここで取ることはできない。
-141	あなたになついたとても大きな熊が後を追っている。
-142	もし今すぐゲームを終了したいときは「終了(quit)」と入力する。後で続き
-142	を行えるように冒険を中断したいときは「保存(save)」入力すればよい。
-142	「時間(hours)」と入力すると、洞窟が通常何時に開いているかがわかる。
-142	「得点(score)」と入力すると、どのくらいうまく探検を進めているかを表示
-142	する。財宝を手に入れたと認められるには、財宝を安全に小屋に持ちかえら
-142	なければならない。財宝のありかを発見しただけでも功績の一部が認められ
-142	る。得点は殺されたとき、あるいは終了したときに減少する。殺されたとき
-142	の方が大きく減少する。得点は(もしできたなら)あなたがどのくらい洞窟を
-142	探索したも関係する。特に、洞窟に入ることには多くの得点が与えられる
-142	(これが初心者とそうでない者を分ける)。またそれとは別に、どれだけ困難
-142	を体験し乗り越えたかでも得点が決まる。
-142	もしあなたが全ての財宝を見つけたと思ったなら、しばらくの間洞窟の探検
-142	を続けるとよい。もし、何もおこらないならあなたはまだ全ての財宝を手に
-142	入れていない。もし何かが起こったなら、それは多くの得点を得たことを意
-142	味し、更に多くの得点を得られる最後の謎に挑戦する機会を得る。
-142	時々、あなたが困難に直面しているときヒントが与えられることがある。
-142	最後に、紙を節約するためには「短縮(brief)」と入力する。そうすると明示
-142	しない限り長い説明を繰り返さない。
-143	ここで終了するか?
-144	壷を満たすものはここにはない。
-145	急激な温度の変化で繊細な壷は割れた。
-146	それを行うだけの力がない。
+133	There is a loud explosion, and a twenty-foot hole appears in the far
+133	wall, burying the dwarves in the rubble.  You march through the hole
+133	and find yourself in the Main Office, where a cheering band of
+133	friendly elves carry the conquering adventurer off into the sunset.
+134	大【だい】爆発【ばくはつ】が起【お】こり、5メートルの大穴【おおあな】が遠【とお】くの壁【かべ】に空【あ】き、たくさんのヘビが岩【いわ】の
+134	下敷【したじ】きになった。溶岩【ようがん】が穴【あな】から流【なが】れ出【だ】し、全【すべ】てを破壊【はかい】しながら押【お】し寄【よ】せ、つ
+134	いにあなを飲【の】み込【こ】んだ!
+134	There is a loud explosion, and a twenty-foot hole appears in the far
+134	wall, burying the snakes in the rubble.  A river of molten lava pours
+134	in through the hole, destroying everything in its path, including you!
+135	大【だい】爆発【ばくはつ】が起【お】こり、あなたは突然【とつぜん】部屋【へや】の向【む】こう側【がわ】の壁【かべ】に叩【たた】きつけられた。
+135	There is a loud explosion, and you are suddenly splashed across the
+135	walls of the room.
+136	騒【さわ】ぎでドワーフ達【たち】が目【め】をさました。恐怖【きょうふ】に脅【おび】えた数【すう】人【にん】の小【ちい】さなドワーフがあ
+136	なたの前【まえ】にいる! 彼【かれ】らはあなたに向【む】かってナイフを投【な】げつけ、それらは全【すべ】て
+136	命中【めいちゅう】した!
+136	The resulting ruckus has awakened the dwarves.  There are now several
+136	threatening little dwarves in the room with you!  Most of them throw
+136	knives at you!  All of them get you!
+137	ああ、あわれで不幸【ふこう】な小鳥【ことり】をはなしてやろう。
+137	Oh, leave the poor unhappy bird alone.
+138	恐【おそ】れながら、あなたの欲【ほ】しい物【もの】はこのあたりにある。
+138	I dare say whatever you want is around here somewhere.
+139	stopという単語【たんご】は知【し】らない。あきらめるときは"quit"を使【つか】うこと。
+139	I don't know the word "stop".  Use "quit" if you want to give up.
+140	ここで取【と】ることはできない。
+140	You can't get there from here.
+141	あなたになついたとても大【おお】きな熊【くま】が後【ご】を追【お】っている。
+141	You are being followed by a very large, tame bear.
+142	もし今【いま】すぐゲームを終了【しゅうりょう】したいときは「終了【しゅうりょう】(quit)」と入力【にゅうりょく】する。後【あと】で続【つづ】き
+142	を行【おこな】えるように冒険【ぼうけん】を中断【ちゅうだん】したいときは「保存【ほぞん】(save)」入力【にゅうりょく】すればよい。
+142	「時間【じかん】(hours)」と入力【にゅうりょく】すると、洞窟【どうくつ】が通常【つうじょう】何【なん】時【じ】に開【ひら】いているかがわかる。
+142	「得点【とくてん】(score)」と入力【にゅうりょく】すると、どのくらいうまく探検【たんけん】を進【すす】めているかを表示【ひょうじ】
+142	する。財宝【ざいほう】を手【て】に入【い】れたと認【みと】められるには、財宝【ざいほう】を安全【あんぜん】に小屋【こや】に持【も】ちかえら
+142	なければならない。財宝【ざいほう】のありかを発見【はっけん】しただけでも功績【こうせき】の一部【いちぶ】が認【みと】められ
+142	る。得点【とくてん】は殺【ころ】されたとき、あるいは終了【しゅうりょう】したときに減少【げんしょう】する。殺【ころ】されたとき
+142	の方【ほう】が大【おお】きく減少【げんしょう】する。得点【とくてん】は(もしできたなら)あなたがどのくらい洞窟【どうくつ】を
+142	探索【たんさく】したも関係【かんけい】する。特【とく】に、洞窟【どうくつ】に入【はい】ることには多【おお】くの得点【とくてん】が与【あた】えられる
+142	(これが初心者【しょしんしゃ】とそうでない者【もの】を分【わ】ける)。またそれとは別【べつ】に、どれだけ困難【こんなん】
+142	を体験【たいけん】し乗【の】り越【こ】えたかでも得点【とくてん】が決【き】まる。
+142	もしあなたが全【すべ】ての財宝【ざいほう】を見【み】つけたと思【おも】ったなら、しばらくの間【ま】洞窟【どうくつ】の探検【たんけん】
+142	を続【つづ】けるとよい。もし、何【なに】もおこらないならあなたはまだ全【すべ】ての財宝【ざいほう】を手【て】に
+142	入【い】れていない。もし何【なに】かが起【お】こったなら、それは多【おお】くの得点【とくてん】を得【え】たことを意【い】
+142	味【あじ】し、更【さら】に多【おお】くの得点【とくてん】を得【え】られる最後【さいご】の謎【なぞ】に挑戦【ちょうせん】する機会【きかい】を得【え】る。
+142	時【じ】々、あなたが困難【こんなん】に直面【ちょくめん】しているときヒントが与【あた】えられることがある。
+142	最後【さいご】に、紙【かみ】を節約【せつやく】するためには「短縮【たんしゅく】(brief)」と入力【にゅうりょく】する。そうすると明示【めいじ】
+142	しない限【かぎ】り長【なが】い説明【せつめい】を繰【く】り返【かえ】さない。
+142	If you want to end your adventure early, say "quit".  To suspend your
+142	adventure such that you can continue later, say "suspend" (or "pause"
+142	or "save").  To see what hours the cave is normally open, say "hours".
+142	To see how well you're doing, say "score".  To get full credit for a
+142	treasure, you must have left it safely in the building, though you get
+142	partial credit just for locating it.  You lose points for getting
+142	killed, or for quitting, though the former costs you more.  There are
+142	also points based on how much (if any) of the cave you've managed to
+142	explore; in particular, there is a large bonus just for getting in (to
+142	distinguish the beginners from the rest of the pack), and there are
+142	other ways to determine whether you've been through some of the more
+142	harrowing sections.  If you think you've found all the treasures, just
+142	keep exploring for a while.  If nothing interesting happens, you
+142	haven't found them all yet.  If something interesting *does* happen,
+142	it means you're getting a bonus and have an opportunity to garner many
+142	more points in the Master's Section.  I may occasionally offer hints
+142	if you seem to be having trouble.  If I do, I'll warn you in advance
+142	how much it will affect your score to accept the hints.  Finally, to
+142	save paper, you may specify "brief", which tells me never to repeat
+142	the full description of a place unless you explicitly ask me to.
+143	ここで終了【しゅうりょう】するか?
+143	Do you indeed wish to quit now?
+144	壷【つぼ】を満【み】たすものはここにはない。
+144	There is nothing here with which to fill the vase.
+145	急激【きゅうげき】な温度【おんど】の変化【へんか】で繊細【せんさい】な壷【つぼ】は割【わ】れた。
+145	The sudden change in temperature has delicately shattered the vase.
+146	それを行【おこな】うだけの力【ちから】がない。
+146	It is beyond your power to do that.
 147	なぜそうするのかわからない。
-148	遠すぎてとどかない。
-149	ドワーフを倒した。死体は油だらけの黒い煙の中に消えた。
-150	貝はとても固く傷つけることができなかった。
-151	読めないのか? 早く始めたほうがよい。
-152	斧は竜の厚いうろこを傷つけられずに跳ね返った。
-153	竜はどちらかと言うと危険そうに見える。仲良くしないほうがよさそうだ。
-154	小鳥は緑色の竜を攻撃した。小鳥は驚き追い払われ炎で燃殻になった。灰は
-154	どこかに吹き飛んだ。
-155	どの上に?
-156	ここからは初めて訪れた場所のみ詳細な記述をする。詳細な記述を表示する
-156	ためには「見る(look)」と入力すること。
-157	トロルは岩のように大きく、その皮膚はサイのように固い。トロルはあなた
-157	の攻撃を軽々と払いのけた。
-158	トロルは斧を器用に受け止め、入念に調べ、そしてあなたに投げ返し大声で
-158	言った。「よい品だ。だが、これではだめだ。」
-159	トロルはあなたの投げた財宝を受け取り、走り去った。
-160	トロルはあなたを通そうとしなかった。
-161	もはやこの深い穴を通る方法はない。
-162	橋を渡り終えようとしたとき、あなたについてきた熊の重みで橋が下に向か
-162	って大きく曲がった。あなたは必死でしがみついたが、橋は崩れあなたは大
-162	穴に転落した。
-163	熊がゆっくりとトロルに向かうと、トロルは驚き叫びながら走り去った。熊
-163	は追うことをあきらめ戻ってきた。
-164	斧は外れ、あなたが近づくことのできない熊の近くに落ちた。
-165	どうやって? 素手で? *熊*の素手と??
-166	熊は混乱している。彼はあなたと仲よくしただけだ。
-167	どんなに嘆いても、哀れにもそれは既に死んでいる!
-168	熊は夢中で食料を食べている。食べ終えた後、熊は落ち着き、あなたになつ
+147	I don't know how.
+148	遠【とお】すぎてとどかない。
+148	It is too far up for you to reach.
+149	ドワーフを倒【たお】した。死体【したい】は油【あぶら】だらけの黒【くろ】い煙【けむり】の中【なか】に消【き】えた。
+149	You killed a little dwarf.  The body vanishes in a cloud of greasy
+149	black smoke.
+150	貝【かい】はとても固【かた】く傷【きず】つけることができなかった。
+150	The shell is very strong and is impervious to attack.
+151	読【よ】めないのか? 早【はや】く始【はじ】めたほうがよい。
+151	What's the matter, can't you read?  Now you'd best start over.
+152	斧【おの】は竜【りゅう】の厚【あつ】いうろこを傷【きず】つけられずに跳【は】ね返【かえ】った。
+152	The axe bounces harmlessly off the dragon's thick scales.
+153	竜【りゅう】はどちらかと言【い】うと危険【きけん】そうに見【み】える。仲良【なかよ】くしないほうがよさそうだ。
+153	The dragon looks rather nasty.  You'd best not try to get by.
+154	小鳥【ことり】は緑色【りょくしょく】の竜【りゅう】を攻撃【こうげき】した。小鳥【ことり】は驚【おどろ】き追【お】い払【はら】われ炎【えん】で燃殻になった。灰【はい】は
+154	どこかに吹【ふ】き飛【と】んだ。
+154	The little bird attacks the green dragon, and in an astounding flurry
+154	gets burnt to a cinder.  The ashes blow away.
+155	どの上【うえ】に?
+155	On what?
+156	ここからは初【はじ】めて訪【おとず】れた場所【ばしょ】のみ詳細【しょうさい】な記述【きじゅつ】をする。詳細【しょうさい】な記述【きじゅつ】を表示【ひょうじ】する
+156	ためには「見【み】る(look)」と入力【にゅうりょく】すること。
+156	Okay, from now on I'll only describe a place in full the first time
+156	you come to it.  To get the full description, say "look".
+157	トロルは岩【いわ】のように大【おお】きく、その皮膚【ひふ】はサイのように固【かた】い。トロルはあなた
+157	の攻撃【こうげき】を軽々【かるがる】と払【はら】いのけた。
+157	Trolls are close relatives with the rocks and have skin as tough as
+157	that of a rhinoceros.  The troll fends off your blows effortlessly.
+158	トロルは斧【おの】を器用【きよう】に受【う】け止【と】め、入念【にゅうねん】に調【しら】べ、そしてあなたに投【な】げ返【がえ】し大声【おおごえ】で
+158	言【い】った。「よい品【しな】だ。だが、これではだめだ。」
+158	The troll deftly catches the axe, examines it carefully, and tosses it
+158	back, declaring, "Good workmanship, but it's not valuable enough."
+159	トロルはあなたの投【な】げた財宝【ざいほう】を受【う】け取【と】り、走【はし】り去【さ】った。
+159	The troll catches your treasure and scurries away out of sight.
+160	トロルはあなたを通【とお】そうとしなかった。
+160	The troll refuses to let you cross.
+161	もはやこの深【ふか】い穴【あな】を通【とお】る方法【ほうほう】はない。
+161	There is no longer any way across the chasm.
+162	橋【きょう】を渡【わた】り終【お】えようとしたとき、あなたについてきた熊【くま】の重【おも】みで橋【はし】が下【した】に向【む】か
+162	って大【おお】きく曲【ま】がった。あなたは必死【ひっし】でしがみついたが、橋【はし】は崩【くず】れあなたは大【だい】
+162	穴【あな】に転落【てんらく】した。
+162	Just as you reach the other side, the bridge buckles beneath the
+162	weight of the bear, which was still following you around.  You
+162	scrabble desperately for support, but as the bridge collapses you
+162	stumble back and fall into the chasm.
+163	熊【くま】がゆっくりとトロルに向【む】かうと、トロルは驚【おどろ】き叫【さけ】びながら走【はし】り去【さ】った。熊【くま】
+163	は追【お】うことをあきらめ戻【もど】ってきた。
+163	The bear lumbers toward the troll, who lets out a startled shriek and
+163	scurries away.  The bear soon gives up the pursuit and wanders back.
+164	斧【おの】は外【はず】れ、あなたが近【ちか】づくことのできない熊【くま】の近【ちか】くに落【お】ちた。
+164	The axe misses and lands near the bear where you can't get at it.
+165	どうやって? 素手【すで】で? *熊【くま】*の素手【すで】と??
+165	With what?  Your bare hands?  Against *his* bear hands??
+166	熊【くま】は混乱【こんらん】している。彼【かれ】はあなたと仲【なか】よくしただけだ。
+166	The bear is confused; he only wants to be your friend.
+167	どんなに嘆【なげ】いても、哀【あわ】れにもそれは既【すで】に死【し】んでいる!
+167	For crying out loud, the poor thing is already dead!
+168	熊【くま】は夢中【むちゅう】で食料【しょくりょう】を食【た】べている。食【た】べ終【お】えた後【のち】、熊【くま】は落【お】ち着【つ】き、あなたになつ
 168	いた。
-169	熊は既に鎖で壁につながれている。
-170	既に鍵がかけられている。
-171	鎖の鍵をはずした。
-172	鎖の鍵をかけた。
-173	鎖に鍵をかけるものがない。
-174	食べられる物がない。
-175	ヒントが必要か?
-176	迷路から抜け出すためのヒントが必要か?
-177	どこも同じように見える迷路は物を置くと区別できる。
-178	チドリの部屋に入ろうとしているのか?
-179	くぼみに降りることなく部屋に入る方法がある。その秘密を発見するには持
-179	ち物は有効ではない。
-180	ここから抜け出すためのヒントが必要か?
-181	西に進んではならない。
-182	暴食は数あるトロルの悪徳の1つではない。強欲はそうであるが。
-183	ランタンは暗くなった。新しいバッテリーを見つけるまで、ランタンを消し
-183	たほうがよい。噂では迷路にバッテリーの自動販売機があるらしい。何枚か
+168	The bear eagerly wolfs down your food, after which he seems to calm
+168	down considerably and even becomes rather friendly.
+169	熊【くま】は既【すで】に鎖【くさり】で壁【かべ】につながれている。
+169	The bear is still chained to the wall.
+170	既【すで】に鍵【かぎ】がかけられている。
+170	The chain is still locked.
+171	鎖【くさり】の鍵【かぎ】をはずした。
+171	The chain is now unlocked.
+172	鎖【くさり】の鍵【かぎ】をかけた。
+172	The chain is now locked.
+173	鎖【くさり】に鍵【かぎ】をかけるものがない。
+173	There is nothing here to which the chain can be locked.
+174	食【た】べられる物【もの】がない。
+174	There is nothing here to eat.
+175	ヒントが必要【ひつよう】か?
+175	Do you want the hint?
+176	迷路【めいろ】から抜【ぬ】け出【だ】すためのヒントが必要【ひつよう】か?
+176	Do you need help getting out of the maze?
+177	どこも同【おな】じように見【み】える迷路【めいろ】は物【もの】を置【お】くと区別【くべつ】できる。
+177	You can make the passages look less alike by dropping things.
+178	チドリの部屋【へや】に入【にゅう】ろうとしているのか?
+178	Are you trying to explore beyond the Plover Room?
+179	くぼみに降【お】りることなく部屋【へや】に入【はい】る方法【ほうほう】がある。その秘密【ひみつ】を発見【はっけん】するには持【じ】
+179	ち物【もの】は有効【ゆうこう】ではない。
+179	There is a way to explore that region without having to worry about
+179	falling into a pit.  None of the objects available is immediately
+179	useful in discovering the secret.
+180	ここから抜【ぬ】け出【だ】すためのヒントが必要【ひつよう】か?
+180	Do you need help getting out of here?
+181	西【にし】に進【すす】んではならない。
+181	Don't go west.
+182	暴食【ぼうしょく】は数【かず】あるトロルの悪徳【あくとく】の1つではない。強欲【ごうよく】はそうであるが。
+182	Gluttony is not one of the troll's vices.  Avarice, however, is.
+183	ランタンは暗【くら】くなった。新【あたら】しいバッテリーを見【み】つけるまで、ランタンを消【け】し
+183	たほうがよい。噂【うわさ】では迷路【めいろ】にバッテリーの自動【じどう】販売【はんばい】機【き】があるらしい。何【なん】枚【まい】か
 183	のコインをもっていくべきだろう。
-184	ランタンは電気を使いきった。
-185	このあたりをうろつくことには意味がない。そしてランタンなしで洞窟を探
-185	索することはできない。もう終わりにしよう。
-186	背後の暗闇からかすかなガサガサという音が聞こえた。ふりかえると、あな
-186	たのランタンは大きな宝箱を運ぶヒゲをはやした海賊を照らした。彼は叫ん
-186	だ。「おどろかせるな! ようやく場所がわかったぞ! 急いで宝を迷路に隠す
-186	とするか! 」彼は暗がりの中に消えた。
-187	ランタンは暗くなった。バッテリーを換えるために戻ったほうがよい。
-188	ランタンは暗くなった。私は自分のランタンのバッテリーを取り替えている。
-189	ランタンが暗くなってきた。そして、換えのバッテリーもない。ランタンを
-189	消したほうがよいだろう。
-190	残念ながらこの雑誌はドワーフ語で書かれているようだ。
-191	「ここは海賊が宝を隠した迷路ではありません。」
-192	むむ、これは手掛かりのようだ。これを読むためには10点必要だが、それで
-192	も読むか?
-193	「この場所は何か奇妙だ。ある1つの言葉が新しい効果を得たようだ。」
-194	以前と同じことが書かれている。
-195	残念ながらわからない。
-196	『おめでとう! よくぞ暗い部屋に明かりを持ち込んだ! 』
-197	鏡を打つと、鏡は音を立てて崩れ無数の破片になった。
-198	壷を持ち床に投げ付けた。
-199	近くのドワーフを起こした。ドワーフは不満気そう目をさまし、あなたを見
-199	て斧を構えた。
+183	Your lamp is getting dim.  You'd best start wrapping this up, unless
+183	You can find some fresh batteries.  I seem to recall there's a vending
+183	machine in the maze.  Bring some coins with you.
+184	ランタンは電気【でんき】を使【つか】いきった。
+184	Your lamp has run out of power.
+185	このあたりをうろつくことには意味【いみ】がない。そしてランタンなしで洞窟【どうくつ】を探【さぐ】
+185	索【さく】することはできない。もう終【お】わりにしよう。
+185	There's not much point in wandering around out here, and you can't
+185	explore the cave without a lamp.  So let's just call it a day.
+186	背後【はいご】の暗闇【くらやみ】からかすかなガサガサという音【おと】が聞【き】こえた。ふりかえると、あな
+186	たのランタンは大【おお】きな宝【たから】箱【ばこ】を運【はこ】ぶヒゲをはやした海賊【かいぞく】を照【て】らした。彼【かれ】は叫【さけ】ん
+186	だ。「おどろかせるな! ようやく場所【ばしょ】がわかったぞ! 急【いそ】いで宝【たから】を迷路【めいろ】に隠【かく】す
+186	とするか! 」彼【かれ】は暗【くら】がりの中【なか】に消【き】えた。
+186	There are faint rustling noises from the darkness behind you.  As you
+186	turn toward them, the beam of your lamp falls across a bearded pirate.
+186	He is carrying a large chest.  "Shiver me timbers!" he cries, "I've
+186	been spotted!  I'd best hie meself off to the maze to hide me chest!"
+186	With that, he vanishes into the gloom.
+187	ランタンは暗【くら】くなった。バッテリーを換【か】えるために戻【もど】ったほうがよい。
+187	Your lamp is getting dim.  You'd best go back for those batteries.
+188	ランタンは暗【くら】くなった。私【わたし】は自分【じぶん】のランタンのバッテリーを取【と】り替【か】えている。
+188	Your lamp is getting dim.  I'm taking the liberty of replacing the
+188	batteries.
+189	ランタンが暗【くら】くなってきた。そして、換【か】えのバッテリーもない。ランタンを
+189	消【け】したほうがよいだろう。
+189	Your lamp is getting dim, and you're out of spare batteries.  You'd
+189	best start wrapping this up.
+190	残念【ざんねん】ながらこの雑誌【ざっし】はドワーフ語【ご】で書【か】かれているようだ。
+190	I'm afraid the magazine is written in Dwarvish.
+191	「ここは海賊【かいぞく】が宝【たから】を隠【かく】した迷路【めいろ】ではありません。」
+191	This is not the maze where the pirate leaves his treasure chest.
+192	むむ、これは手掛【てが】かりのようだ。これを読【よ】むためには10点【てん】必要【ひつよう】だが、それで
+192	も読【よ】むか?
+192	Hmmm, this looks like a clue, which means it'll cost you 10 points to
+192	read it.  Should I go ahead and read it anyway?
+193	「この場所【ばしょ】は何【なに】か奇妙【きみょう】だ。ある1つの言葉【ことば】が新【あたら】しい効果【こうか】を得【え】たようだ。」
+193	It says, "there is something strange about this place, such that one
+193	of the words I've always known now has a new effect."
+194	以前【いぜん】と同【おな】じことが書【か】かれている。
+194	It says the same thing it did before.
+195	残念【ざんねん】ながらわからない。
+195	I'm afraid I don't understand.
+196	『おめでとう! よくぞ暗【くら】い部屋【へや】に明【あ】かりを持【も】ち込【こ】んだ! 』
+196	Congratulations on bringing light into the Dark-Room!
+197	鏡【きょう】を打【う】つと、鏡【かがみ】は音【おと】を立【た】てて崩【くず】れ無数【むすう】の破片【はへん】になった。
+197	You strike the mirror a resounding blow, whereupon it shatters into a
+197	myriad tiny fragments.
+198	壷【つぼ】を持【も】ち床【ゆか】に投【な】げ付【つ】けた。
+198	You have taken the vase and hurled it delicately to the ground.
+199	近【ちか】くのドワーフを起【お】こした。ドワーフは不満【ふまん】気【き】そう目【め】をさまし、あなたを見【み】
+199	て斧【おの】を構【かま】えた。
+199	You prod the nearest dwarf, who wakes up grumpily, takes one look at
+199	you, curses, and grabs for his axe.
 200	それでよいか?
-201	ゲームを保存できるだけの得点がない。
-202	目をさますと、あなたのメモリが寝ている間に溶けてしまったことがわかっ
-202	た。あなたは油だらけの黒い煙の中に消えた。
+200	Is this acceptable?
+201	ゲームを保存【ほぞん】できるだけの得点【とくてん】がない。
+201	There's no point in suspending a demonstration game.
+202	目【もく】をさますと、あなたのメモリが寝【ね】ている間【ま】に溶【と】けてしまったことがわかっ
+202	た。あなたは油【あぶら】だらけの黒【くろ】い煙【けむり】の中【なか】に消【き】えた。
+202	You awaken only to discover your bits have been dissolving while you
+202	slept.  You disappear in a cloud of greasy black smoke.
 -1
 7
 1	3
@@ -1678,15 +2497,24 @@
 9	108
 -1
 10
-35	あなたは明らかに『素人ランク』だ。次に期待する。
-100	あなたは『探検初心者』の資格を与えられた。
-130	あなたは『探検経験者』ランクに到達した。
-200	あなたは『探検熟練者』と認められた。
-250	あなたは『ジュニアマスター』の地位に到達した。
+35	あなたは明【あき】らかに『素人【しろうと】ランク』だ。次【つぎ】に期待【きたい】する。
+35	You are obviously a rank amateur.  Better luck next time.
+100	あなたは『探検【たんけん】初心者【しょしんしゃ】』の資格【しかく】を与【あた】えられた。
+100	Your score qualifies you as a Novice class Adventurer.
+130	あなたは『探検【たんけん】経験【けいけん】者【しゃ】』ランクに到達【とうたつ】した。
+130	You have achieved the rating: "Experienced Adventurer".
+200	あなたは『探検【たんけん】熟練【じゅくれん】者【しゃ】』と認【みと】められた。
+200	You may now consider yourself a "Seasoned Adventurer".
+250	あなたは『ジュニアマスター』の地位【ちい】に到達【とうたつ】した。
+250	You have reached "Junior Master" status.
 300	あなたは『クラスCマスター』だ。
+300	Your score puts you in Master Adventurer Class C.
 330	あなたは『クラスBマスター』だ。
+330	Your score puts you in Master Adventurer Class B.
 349	あなたは『クラスAマスター』だ。
-9999	全ての探検家はあなたに『グランドマスター』の称号を捧げるだろう!
+349	Your score puts you in Master Adventurer Class A.
+9999	全【すべ】ての探検【たんけん】家【か】はあなたに『グランドマスター』の称号【しょうごう】を捧【ささ】げるだろう!
+9999	All of Adventuredom gives tribute to you, Adventurer Grandmaster!
 -1
 11
 2	9999	10	0	0
@@ -1699,43 +2527,81 @@
 9	20	3	180	181
 -1
 12
-1	大きな緑色の煙の塊があなたの前にあらわれたが、それは背が高く灰色のロ
-1	ーブを着た魔法使いによって消された。彼はあなたをにらんで言った。「こ
-1	の探検は長すぎた。」彼があなたの上に手をかざすと、周りのものは全て灰
-1	色の無の中に消えていった。
-2	魔法使いでもこれくらいは待たなければならない!
-3	誠に申し訳ありませんが、コロッサル・ケイブは本日終了しました。営業時間:
-4	魔術師だけが現在洞窟に入ることができる。
-5	時間外は短い探索のみ行うことができる。それでよいか?
-6	コロッサル・ケイブ 営業時間:
+1	大【おお】きな緑色【りょくしょく】の煙【けむり】の塊【かたまり】があなたの前【まえ】にあらわれたが、それは背【せ】が高【たか】く灰色【はいいろ】のロ
+1	ーブを着【き】た魔法使【まほうつか】いによって消【け】された。彼【かれ】はあなたをにらんで言【い】った。「こ
+1	の探検【たんけん】は長【なが】すぎた。」彼【かれ】があなたの上【うえ】に手【て】をかざすと、周【まわ】りのものは全【すべ】て灰【はい】
+1	色【しょく】の無【む】の中【なか】に消【き】えていった。
+1	A large cloud of green smoke appears in front of you.  It clears away
+1	to reveal a tall wizard, clothed in grey.  He fixes you with a steely
+1	 glare and declares, "This adventure has lasted too long."  With that
+1	he makes a single pass over you with his hands, and everything around
+1	 you fades away into a grey nothingness.
+2	魔法使【まほうつか】いでもこれくらいは待【ま】たなければならない!
+2	Even wizards have to wait longer than that!
+3	誠【まこと】に申【もう】し訳【わけ】ありませんが、コロッサル・ケイブは本日【ほんじつ】終了【しゅうりょう】しました。営業【えいぎょう】時間【じかん】:
+3	 I'm terribly sorry, but Colossal Cave is closed.  Our hours are:
+4	魔術【まじゅつ】師【し】だけが現在【げんざい】洞窟【どうくつ】に入【はい】ることができる。
+4	Only wizards are permitted within the cave right now.
+5	時間【じかん】外【がい】は短【みじか】い探索【たんさく】のみ行【おこな】うことができる。それでよいか?
+5	We do allow visitors to make short explorations during our off hours.
+5	Would you like to do that?
+6	コロッサル・ケイブ 営業【えいぎょう】時間【じかん】:
+6	 Colossal Cave is open to regular adventurers at the following hours:
 7	よろしい。
-8	魔法使いのみが今すぐ探検を続けることができる。
-9	もっと後で再開したほうがよい。
-10	時間を見るか?
-11	時間を変更するか?
-12	新しい魔法の言葉は? (何も入力しないと変更しない。):
-13	新しい魔法の数字は? (何も入力しないと変更しない。):
-14	昼間のメッセージを変更するか?
-15	OK. このバージョンを保存できる。
-16	あなたは魔術師か?
-17	証明せよ! 魔法の言葉は?
-18	それは私が考えていた物ではない。私が考えていたものがわかるか?
-19	ああ、本物の魔術師だ! お手数かけました…
-20	ふう、あなたはただのイカサマ師だ!
-21	新しい「ゴールデンタイム」を決める。時間のみ入力すること。
-21	(例: 14、14:00や2pmではない。)マイナスをつけると終了時刻になる。
-22      新しい『コロッサル・ケイブ』の時間:
-23	70文字まで。何もない行で終了する。
-24	長すぎる。再入力せよ:
-25	これ以上容量がない。メッセージを終了する。
-26	次の休暇を(再)設定するか?
-27	今日から何日後から始めるか?
-28	何日後を終了とするか? (0のとき休暇なし。)
-29	何と呼ぶか? (20文字以内)
-30	短すぎる!! 最小値(45分)とする。
-31	これを壊し、あなたのコアイメージを保存する。
-32	忘れずにあなたのコアイメージを保存すること…
+7	Very well.
+8	魔法使【まほうつか】いのみが今【いま】すぐ探検【たんけん】を続【つづ】けることができる。
+8	Only a wizard may continue an adventure this soon.
+9	もっと後【あと】で再開【さいかい】したほうがよい。
+9	I suggest you resume your adventure at a later time.
+10	時間【じかん】を見【み】るか?
+10	Do you wish to see the hours?
+11	時間【じかん】を変更【へんこう】するか?
+11	Do you wish to change the hours?
+12	新【あたら】しい魔法【まほう】の言葉【ことば】は? (何【なに】も入力【にゅうりょく】しないと変更【へんこう】しない。):
+12	New magic word (null to leave unchanged):
+13	新【あたら】しい魔法【まほう】の数字【すうじ】は? (何【なに】も入力【にゅうりょく】しないと変更【へんこう】しない。):
+13	New magic number (null to leave unchanged):
+14	昼間【ひるま】のメッセージを変更【へんこう】するか?
+14	Do you wish to change the message of the day?
+15	OK. このバージョンを保存【ほぞん】できる。
+15	Okay.  You can save this version now.
+16	あなたは魔術【まじゅつ】師【し】か?
+16	Are you a wizard?
+17	証明【しょうめい】せよ! 魔法【まほう】の言葉【ことば】は?
+17	Prove it!  Say the magic word!
+18	それは私【わたし】が考【かんが】えていた物【もの】ではない。私【わたし】が考【かんが】えていたものがわかるか?
+18	That is not what I thought it was.  Do you know what I thought it was?
+19	ああ、本物【ほんもの】の魔術【まじゅつ】師【し】だ! お手数【てかず】かけました…
+19	Oh dear, you really *are* a wizard!  Sorry to have bothered you . . .
+20	ふう、あなたはただのイカサマ師【し】だ!
+20	Foo, you are nothing but a charlatan!
+21	新【あたら】しい「ゴールデンタイム」を決【き】める。時間【じかん】のみ入力【にゅうりょく】すること。
+21	(例【れい】: 14、14:00や2pmではない。)マイナスをつけると終了【しゅうりょう】時刻【じこく】になる。
+21	New hours specified by defining "prime time".  Give only the hour
+21	(E.g. 14, not 14:00 or 2pm).  Enter a negative number after last pair.
+22	新【あたら】しい『コロッサル・ケイブ』の時間【じかん】:
+22	New hours for Colossal Cave:
+23	70文字【もじ】まで。何【なに】もない行【くだり】で終了【しゅうりょう】する。
+23	Limit lines to 70 chars.  End with null line.
+24	長【ちょう】すぎる。再【さい】入力【にゅうりょく】せよ:
+24	Line too long, retype:
+25	これ以上【いじょう】容量【ようりょう】がない。メッセージを終了【しゅうりょう】する。
+25	Not enough room for another line.  Ending message here.
+26	次【じ】の休暇【きゅうか】を(再【さい】)設定【せってい】するか?
+26	Do you wish to (re)schedule the next holiday?
+27	今日【きょう】から何【なん】日【にち】後【ご】から始【はじ】めるか?
+27	To begin how many days from today?
+28	何【なん】日【にち】後【ご】を終了【しゅうりょう】とするか? (0のとき休暇【きゅうか】なし。)
+28	To last how many days (zero if no holiday)?
+29	何【なに】と呼【よ】ぶか? (20文字【もじ】以内【いない】)
+29	To be called what (up to 20 characters)?
+30	短【みじか】すぎる!! 最小【さいしょう】値【ち】(45分【ふん】)とする。
+30	Too small!  Assuming minimum value (45 minutes).
+31	これを壊【こわ】し、あなたのコアイメージを保存【ほぞん】する。
+31	Break out of this and save your core-image.
+32	忘【わす】れずにあなたのコアイメージを保存【ほぞん】すること…
+32	Be sure to save your core-image...
 -1
 0
-	glorkz     8.1     93/05/31
-	日本語版   1.3     11/10/18
+	glorkz	8.1	93/05/31
+	日本語【にほんご】版【ばん】   1.3	11/10/18
