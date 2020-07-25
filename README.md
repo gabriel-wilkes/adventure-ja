@@ -11,7 +11,7 @@ In 2020 @maruhiro-ver0 corrected the auto-generated furigana this project origin
 
 Below are listed the prerequisites and build/install/run directions for macOS and Linux.
 
-![Screenshot of Japanese Learning Adventure](https://i.imgur.com/eCkMKHq.png)
+![Screenshot of Japanese Learning Adventure](https://user-images.githubusercontent.com/1679408/88465555-f4a9b880-cefe-11ea-9cff-87e6620c4e5a.png)
 
 # Prerequisites
 
@@ -41,5 +41,3 @@ BSD Games lists the following as *prerequisites*, as long as you have basic buil
 2. ```make```
 3. ```sudo make install```
 4. ```adventure```
-
-
