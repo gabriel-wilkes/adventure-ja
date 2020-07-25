@@ -5,15 +5,18 @@ The original version of Colossal Cave Adventure was developed starting in 1975 a
 
 I didn't create the translation, it appears the translation was done in 2011 by @maruhiro-ver0 who created the UTF-8 patch file that I used (and Windows binary if you're interested) here: http://ver0.sakura.ne.jp/pc/#advent.
 
-I combined the English and Japanese patched versions and added the furigana to make the classic game into a Japanese learning tool. I also tracked done the bsd games files and removed the other games and changed a few minor things to prevent build errors on Linux and OS X. The build process described below is tested working fine on Ubuntu, Raspbian and OS X.
+I combined the English and Japanese patched versions and added the furigana to make the classic game into a Japanese learning tool. I also tracked done the bsd games files and removed the other games and changed a few minor things to prevent build errors on Linux and macOS. The build process described below is tested working fine on Ubuntu, Raspbian and macOS.
 
 In 2020 @maruhiro-ver0 corrected the auto-generated furigana this project originally used making it much more useful for actually learning Japanese, thank you!
 
-Below are listed the prerequisites and build/install/run directions for macOS and Linux.
+Below are listed the directions for running the macOS binary and the prerequisites/build/install/run directions for macOS and Linux.
 
 ![Screenshot of Japanese Learning Adventure](https://user-images.githubusercontent.com/1679408/88465555-f4a9b880-cefe-11ea-9cff-87e6620c4e5a.png)
 
-# Prerequisites
+# Run directions for macOS (Intel)
+1. Run ```./adv``` in the main project directory
+
+# Prerequisites for building on Linux or macOS
 
 BSD Games lists the following as *prerequisites*, as long as you have basic build tools installed the only thing extra you may need is the ncurses library:
 
@@ -33,10 +36,7 @@ BSD Games lists the following as *prerequisites*, as long as you have basic buil
 
 * A POSIX shell, such as bash, in /bin/sh.
 
-# Run directions for macOS (Intel)
-1. Run ```./adv``` in the main project directory
-
-# Build/install/run directions for macOS and Linux
+# Build/install/run directions for Linux or macOS
 1. Run ```./configure``` in the main project directory
 2. ```make```
 3. ```sudo make install```
