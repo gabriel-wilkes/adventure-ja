@@ -1,11 +1,13 @@
 # Japanese Learning Adventure
-This is a unique English and Japanese bilingual version of the classic game, [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure). Also included is Japanese phonetic characters (furigana) assist Japanese learners. It is based on the bsd games 2.17 version.
+This is a unique English and Japanese bilingual version of the classic game, [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure). Also included is Japanese phonetic characters (furigana) to assist Japanese learners. It is based on the bsd games 2.17 version.
 
 The original version of Colossal Cave Adventure was developed starting in 1975 and released in 1976 on the DEC PDP-10 mainframe. Its historical significance can't be overstated, according to Wikipedia, "Colossal Cave Adventure is the first known work of interactive fiction and, as the first text adventure game, is considered the precursor for the adventure game genre. Colossal Cave Adventure also contributed towards the role-playing and roguelike genres."
 
-I didn't create the translation, it appears the translation was done in 2011. There is the UTF-8 patch file that I used (and Windows binary if you're interested) here: http://ver0.sakura.ne.jp/pc/#advent
+I didn't create the translation, it appears the translation was done in 2011 by @maruhiro-ver0 who created the UTF-8 patch file that I used (and Windows binary if you're interested) here: http://ver0.sakura.ne.jp/pc/#advent.
 
-I combined the English and Japanese patched versions and added the furigana to make the classic game into a Japanese learning tool. I also tracked done the bsd games files and removed the other games and changed a few minor things to prevent build errors on Linux and OS X. Tested working fine on Ubuntu, Raspbian and OS X.
+I combined the English and Japanese patched versions and added the furigana to make the classic game into a Japanese learning tool. I also tracked done the bsd games files and removed the other games and changed a few minor things to prevent build errors on Linux and OS X. The build process described below is tested working fine on Ubuntu, Raspbian and OS X.
+
+In 2020 @maruhiro-ver0 corrected the auto-generated furigana this project originally used making it much more useful for actually learning Japanese, thank you!
 
 Below are listed the prerequisites and build/install/run directions for macOS and Linux.
 
@@ -31,8 +33,13 @@ BSD Games lists the following as *prerequisites*, as long as you have basic buil
 
 * A POSIX shell, such as bash, in /bin/sh.
 
+# Run directions for macOS (Intel)
+1. Run ```./adv``` in the main project directory
+
 # Build/install/run directions for macOS and Linux
 1. Run ```./configure``` in the main project directory
 2. ```make```
 3. ```sudo make install```
 4. ```adventure```
+
+
