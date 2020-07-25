@@ -3,11 +3,11 @@ This is a unique English and Japanese bilingual version of the classic game, [Co
 
 The original version of Colossal Cave Adventure was developed starting in 1975 and released in 1976 on the DEC PDP-10 mainframe. Its historical significance can't be overstated, according to Wikipedia, "Colossal Cave Adventure is the first known work of interactive fiction and, as the first text adventure game, is considered the precursor for the adventure game genre. Colossal Cave Adventure also contributed towards the role-playing and roguelike genres."
 
-I didn't create the translation, it appears the translation was done in 2011 by @maruhiro-ver0 who created the UTF-8 patch file that I used (and Windows binary if you're interested) here: http://ver0.sakura.ne.jp/pc/#advent.
+I didn't create the translation, it appears the translation was done in 2011 by [@maruhiro-ver0](https://github.com/maruhiro-ver0) who created the UTF-8 patch file that I used (and Windows binary if you're interested) here: http://ver0.sakura.ne.jp/pc/#advent.
 
 I combined the English and Japanese patched versions and added the furigana to make the classic game into a Japanese learning tool. I also tracked done the bsd games files and removed the other games and changed a few minor things to prevent build errors on Linux and macOS. The build process described below is tested working fine on Ubuntu, Raspbian and macOS.
 
-In 2020 @maruhiro-ver0 corrected the auto-generated furigana this project originally used making it much more useful for actually learning Japanese, thank you!
+In 2020 [@maruhiro-ver0](https://github.com/maruhiro-ver0) corrected the auto-generated furigana this project originally used making it much more useful for actually learning Japanese, thank you!
 
 Below are listed the directions for running the macOS binary and the prerequisites/build/install/run directions for macOS and Linux.
 
